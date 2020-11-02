@@ -1,5 +1,5 @@
 ---
-title: Our New Post 2
+title: Our New Post 3
 draft: false
 image: /img/tech_blog_07.jpg
 categories: Technology, Gaming, Love

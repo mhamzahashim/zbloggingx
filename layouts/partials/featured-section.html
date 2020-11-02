@@ -1,5 +1,5 @@
 <section class="section first-section">
-    {{ range .Site.RegularPages | shuffle}}
+    {{ range .Site.RegularPages | first 1}}
     <div class="container-fluid">
         <div class="masonry-blog clearfix">
             <div class="first-slot">
@@ -18,7 +18,7 @@
             </div><!-- end first-side -->
     {{ end }}
 
-    {{ range .Site.RegularPages | shuffle}}
+    {{ range .Site.RegularPages | first 2}}
             <div class="second-slot">
                 <div class="masonry-box post-media">
                      <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="img-fluid">
@@ -35,23 +35,4 @@
             </div><!-- end second-side -->
     {{ end }}
 
-    {{ range .Site.RegularPages | shuffle}}
-
-            <div class="last-slot">
-                <div class="masonry-box post-media">
-                     <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="img-fluid">
-                     <div class="shadoweffect">
-                        <div class="shadow-desc">
-                            <div class="blog-meta">
-                                {{ if .Params.categories }}
-                                <span class="bg-orange"><a href="{{.Site.BaseURL}}/{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a></span>{{end}}
-                                <h4><a href="{{.Permalink}}" title="">{{.Title}}</a></h4>
-                            </div><!-- end meta -->
-                        </div><!-- end shadow-desc -->
-                     </div><!-- end shadow -->
-                </div><!-- end post-media -->
-            </div><!-- end second-side -->
-        </div><!-- end masonry -->
-    </div>
-    {{ end }}
 </section>

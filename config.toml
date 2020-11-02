@@ -2,6 +2,34 @@ baseURL = ""
 languageCode = "en-us"
 title = "My New Hugo Site"
 
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[[related.indices]]
+  name = "tags"
+  weight = 100
+
+[[related.indices]]
+  name = "date"
+  weight = 10
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[taxonomies]
+  category = "categories" #Taxonomy Category
+  tag = "tags" #Taxonomy Tags
+  #You can Add More Taxnomies by Singular = "Prular"
+
 [params]
     logo = "/img/tech-logo.png" #Logo of your Website (Put Image in dir /static/images)
 

@@ -5,8 +5,7 @@
     <div class="page-wrapper">
         <div class="blog-title-area text-center">
 
-            {{ if .Params.categories }}
-            <span class="color-green"><a href="{{.Site.BaseURL}}{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a></span>{{end}}
+            <span class="color-green"><a href="{{.Site.BaseURL}}{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a></span>
             <h1>{{.Title}}</h1>
 
             <div class="blog-meta big-meta">
@@ -23,8 +22,9 @@
             {{ .Content | htmlUnescape | safeHTML }}
         </div><!-- end content -->
         <hr class="invis1">
-{{ partial "post-auth-meta.html" . }}
-{{ partial "post-related.html" . }}
+    {{ partial "post-auth-meta.html" . }}
+            <hr class="invis1">
+    {{ partial "post-related.html" . }}
 
 
     </div><!-- end page-wrapper -->
