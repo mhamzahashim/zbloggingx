@@ -1,0 +1,22 @@
+baseURL = ""
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[params]
+    logo = "/img/tech-logo.png" #Logo of your Website (Put Image in dir /static/images)
+
+
+[[menu.mainmenu]]
+  name = "Home"
+  url = "/"
+  weight = "1"
+
+[[menu.mainmenu]]
+  name = "Knowledge Base"
+  url = "/knowledge-base"
+  weight = "2"
+
+[[menu.mainmenu]]
+  name = "Guest Post"
+  url = "/write-for-us/"
+  weight = "3"
