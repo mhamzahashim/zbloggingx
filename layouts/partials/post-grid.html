@@ -1,11 +1,9 @@
-<section class="section">
-    <div class="container">
-        <div class="row">
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
                 <div class="page-wrapper">
                     <div class="blog-grid-system">
                         <div class="row">
-                            {{ range .Data.Pages.ByDate.Reverse }}
+                            {{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) }}
+                            {{ range where $paginator.Pages "Type" "ne" "page" }}
                             <div class="col-md-6">
                                 <div class="blog-box">
                                     <div class="post-media">
