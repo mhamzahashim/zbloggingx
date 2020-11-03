@@ -8,7 +8,7 @@
                     </div><!-- end blog-top -->
 
                     <div class="blog-list clearfix">
-                        {{ range .Site.RegularPages }}
+                        {{ range .Site.RegularPages.ByDate.Reverse }}
                             <div class="blog-box row">
                                 <div class="col-md-4">
                                     <div class="post-media">

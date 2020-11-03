@@ -2,7 +2,9 @@
 title: Our New Post 2
 draft: false
 image: /img/tech_blog_07.jpg
-categories: Technology, Gaming, Love
+categories: 
+    - Gaming
+    - Love
 ---
 
 

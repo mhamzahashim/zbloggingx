@@ -1,6 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "My New Hugo Site"
+summaryLength = 10
 
 [related]
   includeNewer = true
@@ -29,6 +30,11 @@ title = "My New Hugo Site"
   category = "categories" #Taxonomy Category
   tag = "tags" #Taxonomy Tags
   #You can Add More Taxnomies by Singular = "Prular"
+
+[permalinks]
+  categories = "/:title/"
+  tags = "/:title/"
+  posts = "/:title/"
 
 [params]
     logo = "/img/tech-logo.png" #Logo of your Website (Put Image in dir /static/images)
