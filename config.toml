@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 summaryLength = 15
 
-#Don't Change These Things
 [related]
   includeNewer = true
   threshold = 80
@@ -21,7 +20,11 @@ summaryLength = 15
   name = "date"
   weight = 10
 
-#Don't Change These Things
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
 
 [taxonomies]
   category = "categories" #Taxonomy Category
@@ -32,6 +35,10 @@ summaryLength = 15
   categories = "/:title/"
   tags = "/:title/"
   posts = "/:title/"
+
+[params]
+    logo = "/img/tech-logo.png" #Logo of your Website (Put Image in dir /static/images)
+
 
 [[menu.mainmenu]]
   name = "Home"
