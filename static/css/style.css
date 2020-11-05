@@ -317,6 +317,11 @@ a {
     object-fit: cover;
 }
 
+.post-media .list-big-img {
+    object-fit: cover;
+    height: 400px;
+}
+
 
 /* Style the tab */
 

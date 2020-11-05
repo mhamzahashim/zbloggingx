@@ -1,0 +1,50 @@
+<div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+    <div class="page-wrapper">
+        <div class="blog-custom-build">
+
+            {{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) }}
+            {{ range where $paginator.Pages "Type" "ne" "page" }}
+            <div class="blog-box">
+                <div class="post-media">
+                    <a href="{{.Permalink}}" title="{{.Title}}">
+                        <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="img-fluid list-big-img">
+                        <div class="hovereffect">
+                            <span class="videohover"></span>
+                        </div>
+                        <!-- end hover -->
+                    </a>
+                </div>
+                <!-- end media -->
+                <div class="blog-meta big-meta text-center">
+                    <h4><a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a></h4>
+                    <p>{{ .Summary }}</p>
+                    <small><a href="{{.Site.BaseURL}}/{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}" title="{{ with .Params.categories }}{{index . 0}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a></small>
+                    <small><a href="{{.Permalink}}" title="">{{ .PublishDate.Format "January 2, 2006" }}</a></small>
+                    <small><a href="{{.Permalink}}" title="">{{.Site.Params.siteAuthor}}</a></small>
+                </div><!-- end meta -->
+            </div><!-- end blog-box -->
+
+            <hr class="invis">
+
+            {{end}}
+
+        </div><!-- end blog-custom-build -->
+    </div><!-- end page-wrapper -->
+
+    <hr class="invis">
+
+    <div class="row">
+        <div class="col-md-12">
+            <nav aria-label="Page navigation">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item">
+                        <a class="page-link" href="#">Previous</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div><!-- end col -->
+    </div><!-- end row -->
+</div><!-- end col -->
