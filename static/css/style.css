@@ -1694,3 +1694,11 @@ h1.single-post-title{
     margin-bottom: 0 !important;
 
 }
+
+.color-box {
+    padding: 5%;
+    display: block;
+    box-shadow: 0 5px 5px #ddd;
+    border-radius: 7px;
+    margin: 5% 0!important;
+}
