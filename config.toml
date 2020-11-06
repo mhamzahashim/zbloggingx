@@ -1,8 +1,45 @@
 baseURL = ""
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Zblogging"
 summaryLength = 15
 
+
+# Official Setting for Your Whole Theme
+[params]
+    logo = "/images/tech-logo.png" #Logo of your Website (Put Image in dir /static/images)
+    description = "SEO Discription After the Seperator" #SEO Discription of your Website
+    excrept = "SEO Meta Discription" #SEO Exprect of Your Website
+    image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
+    icon = "/images/favicon.png" #Favicon
+    siteAbout = "The About Section Appears in the Footer"
+
+    siteAuthor = "Hamza Hashim" #Your Name
+    AuthorImage = "https://lh3.googleusercontent.com/proxy/2CimS-Lv4aPGN6XniFcYeLKQmPcz5gW1XN5Le3-sTGldV2EVPdHvLYnjbl3cAt-s9JPu5kZKVa72ccx7nDk7Za0J4A" #Your Profile Picure
+    AuthorBio = "Hamza is Chutu + Gandoo" #Your Author BIO
+    contactMail = "hamza@zblogging.com" #Your Contact eMail
+
+    googleSiteVerify = "" #Google Search Console Verification
+    BingWebmaster = "" #Bing Verification
+    PinterestVerify = "" #Pinterest Verification
+
+      ##OpenGraph Meta Start
+    FacebookPublisher = "" #Open Graph Publisher Tag (Facebook)
+    FacebookAuthor = "" #Open Graph Author Tag (Facebook)
+    TwitterPublisher = "" #Open Graph Publisher Tag (Twitter) Just Put Username
+    TwitterAuthor = ""  #Open Graph Author Tag (Twitter) Just Put Username
+      ##OpenGraph Meta END
+
+      ##Social Media Profiles Start
+      SocialFB = "https://www.facebook.com/"
+      SocialTwitter = "https://twitter.com/"
+      SocialYouTube = "https://www.youtube.com/"
+      SocialPinterest = "https://www.pinterest.com/"
+      SocialInsta = "https://www.instagram.com"
+      ##Social Media Profiles END
+
+# Theme Setting END
+
+#Don't Change These Things
 [related]
   includeNewer = true
   threshold = 80
@@ -26,20 +63,15 @@ summaryLength = 15
     ordered = false
     startLevel = 2
 
-[taxonomies]
-  category = "categories" #Taxonomy Category
-  tag = "tags" #Taxonomy Tags
-  #You can Add More Taxnomies by Singular = "Prular"
+#Don't Change These Things
 
 [permalinks]
   categories = "/:title/"
   tags = "/:title/"
   posts = "/:title/"
 
-[params]
-    logo = "/img/tech-logo.png" #Logo of your Website (Put Image in dir /static/images)
 
-
+    #Header Menu Start (Order By Weight)
 [[menu.mainmenu]]
   name = "Home"
   url = "/"
@@ -54,3 +86,38 @@ summaryLength = 15
   name = "Guest Post"
   url = "/write-for-us/"
   weight = "3"
+
+  #Header Menu END
+  #Footer Menu Start (Order By Weight)
+
+[[menu.footermenu]]
+  name = "About Us"
+  url = "/about/"
+  weight = "1"
+
+[[menu.footermenu]]
+  name = "Contact Us"
+  url = "/contact-us/"
+  weight = "2"
+
+[[menu.footermenu]]
+  name = "Affiliate Disclosure"
+  url = "/affiliate-disclosure/"
+  weight = "3"
+
+[[menu.footermenu]]
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = "4"
+
+[[menu.footermenu]]
+  name = "Privacy Policy"
+  url = "/privacy-policy/"
+  weight = "5"
+
+[[menu.footermenu]]
+  name = "Write For Us"
+  url = "/write-for-us/"
+  weight = "6"
+
+  #Footer Menu END

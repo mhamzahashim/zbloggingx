@@ -1686,3 +1686,11 @@ hr.invis3 {
     -o-border-radius: 50%;
     border-radius: 50%
 }
+
+
+/* Custam CSS */
+
+h1.single-post-title{
+    margin-bottom: 0 !important;
+
+}
