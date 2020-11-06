@@ -1,6 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Zblogging"
+paginate = 2 #Number of Post on Homepage
 summaryLength = 15
 
 
