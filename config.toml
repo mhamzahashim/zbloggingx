@@ -7,7 +7,7 @@ summaryLength = 15
 
 # Official Setting for Your Whole Theme
 [params]
-    logo = "/images/zblogging.jpg" #Logo of your Website (Put Image in dir /static/images)
+    logo = "/images/zblogging.png" #Logo of your Website (Put Image in dir /static/images)
     description = "Learn Digital Marketing and Blogging" #SEO Discription of your Website
     excrept = "If you are a newbie and looking for the best blog to learn Learn Digital Marketing and Blogging, than zBlogging is the best place to Learn Blogging for Free." #SEO Exprect of Your Website
     image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
