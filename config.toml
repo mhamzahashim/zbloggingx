@@ -1,41 +1,41 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Zblogging"
+title = "zBlogging"
 paginate = 2 #Number of Post on Homepage
 summaryLength = 15
 
 
 # Official Setting for Your Whole Theme
 [params]
-    logo = "/images/tech-logo.png" #Logo of your Website (Put Image in dir /static/images)
-    description = "SEO Discription After the Seperator" #SEO Discription of your Website
-    excrept = "SEO Meta Discription" #SEO Exprect of Your Website
+    logo = "/images/zblogging.jpg" #Logo of your Website (Put Image in dir /static/images)
+    description = "Learn Digital Marketing and Blogging" #SEO Discription of your Website
+    excrept = "If you are a newbie and looking for the best blog to learn Learn Digital Marketing and Blogging, than zBlogging is the best place to Learn Blogging for Free." #SEO Exprect of Your Website
     image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
     icon = "/images/favicon.png" #Favicon
-    siteAbout = "The About Section Appears in the Footer"
+    siteAbout = "If you are a newbie and looking for the best blog to learn Learn Digital Marketing and Blogging, than zBlogging is the best place to Learn Blogging for Free."
 
     siteAuthor = "Hamza Hashim" #Your Name
-    AuthorImage = "https://lh3.googleusercontent.com/proxy/2CimS-Lv4aPGN6XniFcYeLKQmPcz5gW1XN5Le3-sTGldV2EVPdHvLYnjbl3cAt-s9JPu5kZKVa72ccx7nDk7Za0J4A" #Your Profile Picure
-    AuthorBio = "Hamza is Chutu + Gandoo" #Your Author BIO
+    AuthorImage = "" #Your Profile Picure
+    AuthorBio = "" #Your Author BIO
     contactMail = "hamza@zblogging.com" #Your Contact eMail
 
-    googleSiteVerify = "" #Google Search Console Verification
-    BingWebmaster = "" #Bing Verification
-    PinterestVerify = "" #Pinterest Verification
+    googleSiteVerify = "ZiKLf11vLGM02FoOIa1TdA9lgxrwuYzIOjAWXT5GQ34" #Google Search Console Verification
+    BingWebmaster = "EF98A52ADE40313A72985210538FF658" #Bing Verification
+    PinterestVerify = "c3e893a665ab073b8f73b31c193964e7" #Pinterest Verification
 
       ##OpenGraph Meta Start
-    FacebookPublisher = "" #Open Graph Publisher Tag (Facebook)
-    FacebookAuthor = "" #Open Graph Author Tag (Facebook)
-    TwitterPublisher = "" #Open Graph Publisher Tag (Twitter) Just Put Username
-    TwitterAuthor = ""  #Open Graph Author Tag (Twitter) Just Put Username
+    FacebookPublisher = "https://www.facebook.com/zblogging" #Open Graph Publisher Tag (Facebook)
+    FacebookAuthor = "https://www.facebook.com/zblogging" #Open Graph Author Tag (Facebook)
+    TwitterPublisher = "@mhamza_hashim" #Open Graph Publisher Tag (Twitter) Just Put Username
+    TwitterAuthor = "@mhamza_hashim"  #Open Graph Author Tag (Twitter) Just Put Username
       ##OpenGraph Meta END
 
       ##Social Media Profiles Start
-      SocialFB = "https://www.facebook.com/"
-      SocialTwitter = "https://twitter.com/"
-      SocialYouTube = "https://www.youtube.com/"
-      SocialPinterest = "https://www.pinterest.com/"
-      SocialInsta = "https://www.instagram.com"
+      SocialFB = "https://www.facebook.com/zblogging"
+      SocialTwitter = "https://twitter.com/@mhamza_hashim"
+      SocialYouTube = ""
+      SocialPinterest = ""
+      SocialInsta = "https://www.instagram.com/zblogging"
       ##Social Media Profiles END
 
 # Theme Setting END
@@ -64,23 +64,23 @@ summaryLength = 15
     ordered = false
     startLevel = 2
 
-#Don't Change These Things
-
 [permalinks]
   categories = "/:title/"
   tags = "/:title/"
   posts = "/:title/"
 
+#Don't Change These Things
+
 
     #Header Menu Start (Order By Weight)
 [[menu.mainmenu]]
-  name = "Home"
+  name = "SEO"
   url = "/"
   weight = "1"
 
 [[menu.mainmenu]]
-  name = "Knowledge Base"
-  url = "/knowledge-base"
+  name = "Growth Hack"
+  url = "/"
   weight = "2"
 
 [[menu.mainmenu]]

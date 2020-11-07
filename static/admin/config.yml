@@ -1,0 +1,96 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+site_url: https://try10.com
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+
+#Posts Collection
+  - name: "posts"
+    label: "Posts"
+    folder: "content/post"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "post"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: false}
+      - {label: "SEO Discription", name: "excrept", widget: "text", required: false}
+      - {label: "Focus Keywords", name: "metaKeywords", widget: "string", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
+      - {label: "Featured Image (Size 1200x680)", name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Schema Markup", name: "schemaMarkup", widget: "text", required: false}
+      - {label: "Staff Pick P.Name", name: "pickName", widget: "string", required: false}
+      - {label: "Staff Pick P.Image", name: "pickImg", widget: "image", required: false}
+      - {label: "Staff Pick P.Link", name: "pickLink", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+#KnowledgeBase Collection
+  - name: "knowledge-base"
+    label: "Knowledge Base"
+    folder: "content/knowledge-base"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "knowledge-base"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: false}
+      - {label: "SEO Discription", name: "excrept", widget: "text", required: false}
+      - {label: "Focus Keywords", name: "metaKeywords", widget: "string", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
+      - {label: "Featured Image (Size 1200x680)", name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Schema Markup", name: "schemaMarkup", widget: "text" , required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+#Pages Collection
+  - name: "pages"
+    label: "Pages"
+    folder: "content/page"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "page"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: false}
+      - {label: "SEO Discription", name: "excrept", widget: "text", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+#Categories Collection
+  - name: categories
+    label: Categories
+    folder: data/categories/
+    create: true
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name}
+      - {name: SEOTitle, label: SEOTitle}
+      - {name: excrept, label: SEO Discription}
+      - {name: url, label: Slug}
+
+#Tags Collection
+  - name: tags
+    label: Tags
+    folder: data/tags/
+    create: true
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name}
+      - {name: SEOTitle, label: SEOTitle}
+      - {name: excrept, label: SEO Discription}
+      - {name: url, label: Slug}
