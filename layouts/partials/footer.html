@@ -2,9 +2,35 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
+                    <div class="widget">
+                        <div class="footer-text text-left">
+                            <a href="index.html"><img src="{{.Site.Params.logo}}" alt="" class="img-fluid"></a>
+                            <p>{{.Site.Params.siteAbout}}</p>
+                            <div class="social">
+                                {{if .Site.Params.SocialFB}}
+                                <a href="{{.Site.Params.SocialFB  | safeHTML}}" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>   
+                                {{end}}           
+                                {{if .Site.Params.SocialTwitter}}
+                                <a href="{{.Site.Params.SocialTwitter  | safeHTML}}" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter"></i></a>
+                                {{end}}
+                                {{if .Site.Params.SocialYouTube}}
+                                <a href="{{.Site.Params.SocialYouTube  | safeHTML}}" data-toggle="tooltip" data-placement="bottom" title="YouTube"><i class="fa fa-youtube"></i></a>
+                                {{end}}
+                                {{if .Site.Params.SocialPinterest}}
+                                <a href="{{.Site.Params.SocialPinterest  | safeHTML}}" data-toggle="tooltip" data-placement="bottom" title="Pinterest"><i class="fa fa-pinterest"></i></a>
+                                {{end}}
+                                {{if .Site.Params.SocialInsta}}
+                                <a href="{{.Site.Params.SocialInsta  | safeHTML}}" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fa fa-instagram"></i></a>
+                                {{end}}
+                            </div>
+
+                            <hr class="invis">
+                        </div><!-- end footer-text -->
+                    </div><!-- end widget -->
             </div><!-- end col -->
 
             <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+                    
             </div><!-- end col -->
 
             <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12">
@@ -12,11 +38,9 @@
                     <h2 class="widget-title">SiteLinks</h2>
                     <div class="link-widget">
                         <ul>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Advertising</a></li>
-                            <li><a href="#">Write for us</a></li>
-                            <li><a href="#">Trademark</a></li>
-                            <li><a href="#">License & Help</a></li>
+                            {{ range .Site.Menus.footermenu }}
+                            <li><a href="{{.URL}}">{{.Name}}</a></li>
+                            {{ end }}
                         </ul>
                     </div><!-- end link-widget -->
                 </div><!-- end widget -->
@@ -26,7 +50,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <br>
-                <div class="copyright">&copy; Tech Blog. Design: <a href="http://html.design">HTML Design</a>.</div>
+                <div class="copyright">&copy; Tech Blog. Design: <a href="https://facebook.com/hey.yousaf">Yousaf Nadeem</a>.</div>
             </div>
         </div>
     </div><!-- end container -->

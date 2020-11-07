@@ -1,7 +1,7 @@
 ---
 title: Our New Post 1
 draft: false
-image: /img/tech_blog_07.jpg
+image: /images/tech_blog_07.jpg
 categories: [Technology, Gaming, Love]
 tags: [lve, new, img]
 ---
@@ -11,6 +11,14 @@ In lobortis pharetra mattis. Morbi nec nibh iaculis, bibendum augue a, ultrices 
 
 Maecenas non convallis quam, eu sodales justo. Pellentesque quis lectus elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Donec nec metus sed leo sollicitudin ornare sed consequat neque. Aliquam iaculis neque quis dui venenatis, eget posuere felis viverra. Ut sit amet feugiat elit, nec elementum velit. Sed eu nisl convallis, efficitur turpis eu, euismod nunc. Proin neque enim, malesuada non lobortis nec, facilisis et lectus. Ie consectetur. Nam eget neque ac ex fringilla dignissim eu ac est. Nunc et nisl vel odio posuere.
+
+{{%color-box bg-color="#fedefe"%}}
+
+## This Color Box Heading
+
+We have put this a red color box with black text
+
+{{%/color-box%}}
 
 Vivamus non condimentum orci. Pellentesque venenatis nibh sit amet est vehicula lobortis. Cras eget aliquet eros. Nunc lectus elit, suscipit at nunc sed, finibus imperdiet ipsum. Maecenas dapibus neque sodales nulla finibus volutpat. Integer pulvinar massa vitae ultrices posuere. Proin ut tempor turpis. Mauris felis neque, egestas in lobortis et, sodales non ante. Ut vestibulum libero quis luctus tempus. Nullam eget dignissim massa. Vivamus id condimentum orci. Nunc ac sem urna. Aliquam et hendrerit nisl massa nunc.
 

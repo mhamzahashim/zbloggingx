@@ -19,7 +19,7 @@
     
                                 <div class="blog-meta big-meta col-md-8">
                                     <h4><a href="{{.Permalink}}" title="{{.Title}}">{{.Title}}</a></h4>
-                                    <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit. Mauris et pharetratortor. Suspendissea sodales urna. In at augue elit. Vivamus enim nibh, maximus ac felis nec, maximus tempor odio.</p>
+                                    <p>{{.Summary}}</p>
                                     <small class="firstsmall"> {{ if .Params.categories }}<a class="bg-orange" href="{{.Site.BaseURL}}/{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a>{{end}}</small>
                                     <small><a href="{{.Permalink}}" title="">{{ .PublishDate.Format "January 2, 2006" }}</a></small>
                                     <small><a href="{{.Permalink}}" title="">{{.Site.Params.siteAuthor}}</a></small>
@@ -28,6 +28,8 @@
     
                             <hr class="invis">
                             {{end}}
+                            <hr class="invis">
+                            {{ partial "pagination.html" . }} 
                     </div><!-- end blog-list -->
                 </div><!-- end page-wrapper -->
 

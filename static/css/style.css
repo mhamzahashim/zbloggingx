@@ -317,6 +317,11 @@ a {
     object-fit: cover;
 }
 
+.post-media .list-big-img {
+    object-fit: cover;
+    height: 400px;
+}
+
 
 /* Style the tab */
 
@@ -1680,4 +1685,20 @@ hr.invis3 {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%
+}
+
+
+/* Custam CSS */
+
+h1.single-post-title{
+    margin-bottom: 0 !important;
+
+}
+
+.color-box {
+    padding: 5%;
+    display: block;
+    box-shadow: 0 5px 5px #ddd;
+    border-radius: 7px;
+    margin: 5% 0!important;
 }

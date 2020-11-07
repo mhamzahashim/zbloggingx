@@ -1,12 +1,9 @@
-<section class="section single-wrapper">
-    <div class="container">
-        <div class="row">
 <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
     <div class="page-wrapper">
         <div class="blog-title-area text-center">
 
-            <span class="color-green"><a href="{{.Site.BaseURL}}{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a></span>
-            <h1>{{.Title}}</h1>
+            <span class="color-orange"><a href="{{.Site.BaseURL}}{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a></span>
+            <h1 class="single-post-title">{{.Title}}</h1>
 
             <div class="blog-meta big-meta">
                 <small><a href="{{.Permalink}}" title="">{{ .PublishDate.Format "January 2, 2006" }}</a></small>
