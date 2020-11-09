@@ -1,0 +1,38 @@
+<script type="application/ld+json"> {
+    "@context": "http:\/\/schema.org", "@type":"Article", "dateCreated":"{{.Date}}", "datePublished":"{{.Date}}", "dateModified":"{{.Params.updateDate}}", "headline":"{{.Params.SEOTitle}}",
+     "name":"{{.Params.SEOTitle}}", {{if .Params.metaKeywords}} "keywords":"{{.Params.metaKeywords}}",{{end}} "url":"{{.Page.Permalink}}", "description":"{{.Params.excrept}}", "copyrightYear":"{{ .Date.Format "2006" }}", "articleSection":"{{ with .Params.categories }}{{index . 0 }}{{end}}", "articleBody":"{{.Content}}", "publisher": {
+        "@id":"#Publisher", "@type":"Organization", "name":"{{.Site.Title}}", "logo": {
+            "@type":"ImageObject", "url":"{{.Site.Params.logo}}"
+        }
+        ,
+        "sameAs": [
+            {{ if .Site.Params.SocialFB }}"{{.Site.Params.SocialFB}}",{{ end }}
+            {{ if .Site.Params.SocialTwitter }}"{{.Site.Params.SocialTwitter}}",{{ end }}
+            {{ if .Site.Params.SocialYouTube }}"{{.Site.Params.SocialYouTube}}",{{ end }}
+            {{ if .Site.Params.SocialTumblr }}"{{.Site.Params.SocialTumblr}}",{{ end }}
+            {{ if .Site.Params.SocialLinkedin }}"{{.Site.Params.SocialLinkedin}}",{{ end }}
+            {{ if .Site.Params.SocialPinterest }}"{{.Site.Params.SocialPinterest}}"{{ end }}
+        ]
+    }
+    ,
+    "sourceOrganization": {
+        "@id": "#Publisher"
+    }
+    ,
+    "copyrightHolder": {
+        "@id": "#Publisher"
+    }
+    ,
+    "mainEntityOfPage": {
+        "@type": "WebPage", "@id":"{{.Page.Permalink}}"
+    }
+    ,
+    "author": {
+        "@type": "Person", "name":"{{.Site.Params.siteAuthor}}"
+    }
+    ,
+    "image": {
+        "@type": "ImageObject", "url":"{{.Params.image}}"}
+}
+
+</script>

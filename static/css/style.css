@@ -1056,16 +1056,16 @@ div.tab button:hover {
     border: 1px dashed #dadada;
 }
 
-.pp {
+.blog-content p {
     padding-left: 5%;
     padding-right: 5%;
 }
 
-.pp .float-left {
+.blog-content p .float-left {
     margin: 0 2rem 1rem -3rem;
 }
 
-.pp a {
+.blog-content p a {
     font-weight: bold;
 }
 
@@ -1710,4 +1710,26 @@ h1.single-post-title{
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.auth-img{
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.auth-info{
+    text-align: center;
+}
+
+@media only screen and (max-width:993px){
+    .site-sidebar, .first-section{
+        display: none;
+    }
+    .col-lg-9{
+    flex: 0 0 100%;
+    max-width: 100%;
+    }
+    .row {
+        margin-top:5%;
+    }
 }

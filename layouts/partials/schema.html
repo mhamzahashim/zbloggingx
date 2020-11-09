@@ -1,0 +1,116 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "Organization",
+        "name": "{{.Site.Title}}",
+        "url": "{{.Site.BaseURL}}",
+        "logo": "{{.Site.Params.logo | absURL }}",
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "email": "{{.Site.Params.contactMail}}",
+                "areaServed": [
+                    "US",
+                    "CA",
+                    "GB",
+                    "ES",
+                    "IT",
+                    "FR",
+                    "DE"
+                ],
+                "contactOption": [
+                    "HearingImpairedSupported"
+                ],
+                "availableLanguage": [
+                    "English"
+                ]
+            }
+        ],
+        "sameAs": [
+        {{ if .Site.Params.SocialFB }}"{{.Site.Params.SocialFB}}",{{ end }}
+        {{ if .Site.Params.SocialTwitter }}"{{.Site.Params.SocialTwitter}}",{{ end }}
+        {{ if .Site.Params.SocialYouTube }}"{{.Site.Params.SocialYouTube}}",{{ end }}
+        {{ if .Site.Params.SocialTumblr }}"{{.Site.Params.SocialTumblr}}",{{ end }}
+        {{ if .Site.Params.SocialLinkedin }}"{{.Site.Params.SocialLinkedin}}",{{ end }}
+        {{ if .Site.Params.SocialPinterest }}"{{.Site.Params.SocialPinterest}}"{{ end }}
+        ]
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@type": "Blog",
+        "url": "{{.Site.BaseURL}}",
+        "headline": "{{.Site.Title}}",
+        "description": "{{.Site.Params.description}}",
+        "blogPost": [{{- $comma := false -}}
+        {{- range (where .Site.RegularPages "Type" "ne" "page" | first 6 ) -}}
+        {{- if $comma -}},{{- end -}}
+            {
+                "@type": "BlogPosting",
+                "headline": "{{.Title}}",
+                "name": "{{.Title}}",
+                "url": "{{.Permalink}}",
+                "mainEntityOfPage": "{{.Permalink}}",
+                "dateModified": "{{.Lastmod.Format "2006-01-02T15:04:05-07:00"}}",
+                "datePublished": "{{.Date.Format "2006-01-02T15:04:05-07:00"}}",
+                "author": {
+                    "@type": "Person",
+                    "name": "{{.Site.Params.siteAuthor}}",
+                    "description": "{{.Site.Params.AuthorBio}}",
+                    "image": { "@type": "ImageObject", "url": "{{.Site.Params.AuthorImage | absURL }}"}
+                },
+                "publisher": { "@type": "Organization", "name": "{{.Site.Title}}", "logo": { "@type": "ImageObject", "url": "{{.Site.Params.image | absURL}}" } },
+                "image": { "@type": "ImageObject", "url": "{{.Params.image | absURL}}"},
+                "commentCount": "0",
+                "comment": "",
+                "wordCount": {{.WordCount}}
+            }{{- $comma = true -}}{{- end -}}
+
+        ]
+    }
+</script>
+{{ end }}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "SiteNavigationElement",
+        "name": [{{- $ncomma := false -}}
+            {{- range .Site.Menus.mainmenu -}}
+            {{- if $ncomma -}},{{- end -}}"{{ .Name }}"
+            {{- $ncomma = true -}}
+            {{- end -}}],
+        "url": [ {{- $ucomma := false -}}
+                {{- range .Site.Menus.mainmenu -}}
+                {{- if $ucomma -}},{{- end -}}"{{ .URL | absURL }}"
+                {{- $ucomma = true -}}
+                {{- end -}} ]
+    }
+</script>
+{{ if .IsPage }}
+{{ partial "article-schema" . }}
+<script type="application/ld+json">
+    {
+        "@context": "https:\/\/schema.org",
+        "@graph": [
+            {
+                "@type": "BlogPosting",
+                "headline": "{{.Params.SEOTitle}}",
+                "datePublished": "{{.Date}}",
+                "dateModified": "{{.Params.updateDate}}",
+                "publisher": { "@type": "Organization", "name": "{{.Site.Title}}", "logo": { "@type": "ImageObject", "url": "{{.Site.Params.logo | absURL }}" } },
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "{{.Page.Permalink}}" },
+                "author": { "@type": "Person", "name": "{{.Site.Params.siteAuthor}}" },
+                "description": "{{.Params.excrept}}",
+                "image": { "@type": "ImageObject", "url": "{{.Params.image | absURL}}"}
+            }
+        ]
+    }
+</script>
+{{ end }}
+{{ if .Params.schemaMarkup }}
+    {{.Params.schemaMarkup | safeHTML}}    
+{{ end }}
+
+</head>

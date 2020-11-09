@@ -1,8 +1,8 @@
-baseURL = ""
+baseURL = "zbloggingx.netlify.app"
 languageCode = "en-us"
 title = "zBlogging"
 paginate = 2 #Number of Post on Homepage
-summaryLength = 15
+summaryLength = 10
 
 
 # Official Setting for Your Whole Theme
@@ -15,8 +15,8 @@ summaryLength = 15
     siteAbout = "If you are a newbie and looking for the best blog to learn Learn Digital Marketing and Blogging, than zBlogging is the best place to Learn Blogging for Free."
 
     siteAuthor = "Hamza Hashim" #Your Name
-    AuthorImage = "" #Your Profile Picure
-    AuthorBio = "" #Your Author BIO
+    AuthorImage = "https://secure.gravatar.com/avatar/fdd31849361d89c3fe458615ba619156?s=180&d=mm&r=g" #Your Profile Picure
+    AuthorBio = "I'm a Freelancer having skills in SEO and Social Media Marketing with over three years of experience in these fields. I have worked for many brands. I have helped businesses to gain higher visibility in search engines. I am familiar with carrying out SEO optimization practices from small to large companies." #Your Author BIO
     contactMail = "hamza@zblogging.com" #Your Contact eMail
 
     googleSiteVerify = "ZiKLf11vLGM02FoOIa1TdA9lgxrwuYzIOjAWXT5GQ34" #Google Search Console Verification
