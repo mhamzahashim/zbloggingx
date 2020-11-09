@@ -1,4 +1,4 @@
-baseURL = "zbloggingx.netlify.app"
+baseURL = "https://zbloggingx.netlify.app"
 languageCode = "en-us"
 title = "zBlogging"
 paginate = 2 #Number of Post on Homepage
@@ -33,8 +33,6 @@ summaryLength = 10
       ##Social Media Profiles Start
       SocialFB = "https://www.facebook.com/zblogging"
       SocialTwitter = "https://twitter.com/@mhamza_hashim"
-      SocialYouTube = ""
-      SocialPinterest = ""
       SocialInsta = "https://www.instagram.com/zblogging"
       ##Social Media Profiles END
 
