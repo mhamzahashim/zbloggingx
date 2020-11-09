@@ -1,4 +1,0 @@
----
-title: Gaming
-url: gaming
----
