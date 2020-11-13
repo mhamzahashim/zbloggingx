@@ -21,9 +21,7 @@ Without the score, you might not know some of your current features are hurting 
 
 As you can see in the screenshot that Google is showing  Ads on the **top of the page.** You get in there by paying their service Google Adwords. Just follow my step by step guidelines to on how to improve Google AdWords quality score
 
- 
-
-![How to Improve Google Adwords Quality Score](https://zblogging.com/wp-content/uploads/Increase-Google-Adwords-Quality-Score.jpg "How to Improve Google Adwords Quality Score")
+![improve-google-adwords-quality-score](/uploads/improve-google-adwords-quality-score.jpg "improve-google-adwords-quality-score")
 
 The higher the **Google Adwords** quality scores the cheap you going to be paying per click. The way that Google Adwords work is every time someone clicks on the ads you pay money.
 
@@ -32,8 +30,6 @@ When no one clicks on your ads you don’t pay any money to Google. So if you wa
 ## 1. Keyword Selection
 
 Target very specific keywords. Don’t do broad match keywords. Keyword targeting is the main thing to do in Google Adwords. Select the most suitable keywords. Select all the suitable keywords with high search volume but less in competition.
-
-![How to Improve Google Adwords Quality Score](https://zblogging.com/wp-content/uploads/2019/03/3-1.png "How to Improve Google Adwords Quality Score")
 
 If you go after a very **specific keyword** by doing an exact match well it happens is your only shows on specific keywords. When you go too broad you gonna paying more per click because Google can be showing your ads so lots of people clicking on it.
 
@@ -49,8 +45,6 @@ Let’s say that you are selling computers. When someone types[ **Apple** ](ht
 
 The third tip is to group your keyword. What I mean by grouping is a lot of your keywords are similar to each other like this and they are in one group. This way you can target more keywords in one campaign.
 
-![How to increase your Google Ad-words Quality Score](https://zblogging.com/wp-content/uploads/2019/03/6-1.png "How to Improve Google Adwords Quality Score 2")
-
 By grouping, you can add relevant ad text to each group. The moment you put your keyword in one campaign and you have the same ad text for the all of those keywords what’s gonna happen is your ad text gonna be relevant to its every keyword and a lot of people clicking on it and that results from your quality score down and your cost per click to go up.
 
 Because the way **Google works is they optimize** for their revenue so the higher click should be the cheaper your ads would be and the higher click is the better quality score is gonna be.
@@ -61,11 +55,7 @@ The fourth tip **continues to optimize** your ad’s text. If your ad text get
 
 By testing, you are able to understand what works & what does not work if you are unsure of this go and look at your competitor. Type the keyword on Google and you can see the ad texts peoples are using that are on the top.
 
-![How to increase your Google Ad-words Quality Score](https://zblogging.com/wp-content/uploads/2019/03/8.png "How to Improve Google Adwords Quality Score 3")
-
 Usually, the people are on the top have really appealing ad text in which they get a lot of clicks. If you can’t find the example of your keywords go to **SEO SEMRUSH** put the keyword in it and it shows all the history of all the people that are bidding on those keywords and what their ad copy was.
-
-![How to increase your Google Ad-words Quality Score](https://zblogging.com/wp-content/uploads/2019/03/9.png "How to Improve Google Adwords Quality Score 4")
 
 ## **5. Create Attractive Landing Page**
 
