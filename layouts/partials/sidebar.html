@@ -87,7 +87,7 @@
                                     <ul>
                                         {{ $baseurl := .Site.BaseURL }}
                                         {{ range $key, $value := .Site.Taxonomies.categories }}
-                                            <li><a href="{{ $baseurl  }}{{ $key | urlize  }}">{{ $key }}</a> <span>({{ len $value }})</span></li>
+                                            <li><a href="{{ $baseurl  }}/{{ $key | urlize  }}">{{ $key }}</a> <span>({{ len $value }})</span></li>
                                         {{end}}
                                     </ul>
                                 </div><!-- end link-widget -->
