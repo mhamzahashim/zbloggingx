@@ -1,5 +1,5 @@
 <section class="section first-section">
-    {{ range .Site.RegularPages | first 1}}
+    {{ range first 1 .Site.RegularPages}}
     <div class="container-fluid">
         <div class="masonry-blog clearfix">
             <div class="first-slot">
@@ -18,7 +18,7 @@
             </div><!-- end first-side -->
     {{ end }}
 
-    {{ range .Site.RegularPages | first 2}}
+    {{ range first 2 (after 1 .Site.RegularPages)}}
             <div class="second-slot">
                 <div class="masonry-box post-media">
                      <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="img-fluid">
