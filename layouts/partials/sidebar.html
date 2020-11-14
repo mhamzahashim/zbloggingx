@@ -37,7 +37,7 @@
 
 
                             {{ if .IsPage }}
-                            {{ $related := .Site.RegularPages.Related . | first 4 }}
+                            {{ $related := .Site.RegularPages.Related . | first 5 }}
                             {{ with $related | shuffle }}
                             <div class="widget">
                                 <h2 class="widget-title">Popular Posts</h2>
@@ -61,7 +61,7 @@
 
                             {{ if .IsHome }}
                             {{ $recent := .Site.RegularPages | shuffle }}
-                            {{ with $recent | first 2 }}
+                            {{ with $recent | first 5 }}
                             <div class="widget">
                                 <h2 class="widget-title">Recent Posts</h2>
                                 <div class="blog-list-widget">
