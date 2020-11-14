@@ -54,7 +54,7 @@ summaryLength = 10
 
 [[related.indices]]
   name = "date"
-  weight = 10
+  weight = 100
 
 [markup]
   [markup.tableOfContents]

@@ -39,7 +39,7 @@ p,
 .navbar-inverse .navbar-nav .nav-link,
 .header .dropdown-menu,
 .navbar-nav .nav-link {
-    font-family: 'Roboto', serif;
+    font-family: "Segoe UI", "Open Sans", sans-serif;
 }
 
 h1,
@@ -110,7 +110,7 @@ p {
 
 p {
     margin-bottom: 26px;
-    font-size: 15px;
+    font-size: 17px;
     line-height: 26px;
 }
 
@@ -1056,16 +1056,16 @@ div.tab button:hover {
     border: 1px dashed #dadada;
 }
 
-.blog-content p {
+.blog-content .pp {
     padding-left: 5%;
     padding-right: 5%;
 }
 
-.blog-content p .float-left {
+.blog-content .pp .float-left {
     margin: 0 2rem 1rem -3rem;
 }
 
-.blog-content p a {
+.blog-content .pp a {
     font-weight: bold;
 }
 

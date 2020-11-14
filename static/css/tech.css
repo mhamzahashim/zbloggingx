@@ -23,7 +23,7 @@ body,
 .dropdown-item,
 .form-control,
 p {
-    font-family: 'Poppins', serif !important;
+    font-family: "Segoe UI", "Open Sans", sans-serif;
 }
 
 h1,
@@ -31,7 +31,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .navbar-inverse .navbar-nav .nav-link,

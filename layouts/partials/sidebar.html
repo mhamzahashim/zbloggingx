@@ -67,14 +67,13 @@
                                 <div class="blog-list-widget">
                                     <div class="list-group">
                                         {{ range . }}
-                                        <div class="list-group-item list-group-item-action flex-column align-items-start">
-                                        <a href="{{.Permalink}}">
+                                        <a class="list-group-item list-group-item-action flex-column align-items-start" href="{{.Permalink}}">
                                             <div class="w-100 justify-content-between">
-                                                <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="img-fluid float-left">
+                                                <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="recent-img img-fluid float-left">
                                                 <h5 class="mb-1">{{.Title}}</h5>
-                                                <small><a href="{{.Permalink}}" title="">{{ .PublishDate.Format "January 2, 2006" }}</a></small>
+                                                <small>{{ .PublishDate.Format "January 2, 2006" }}</small>
                                             </div>
-                                        </a></div>
+                                        </a>
                                         {{ end }}
                                     </div>
                                 </div><!-- end blog-list -->
@@ -87,7 +86,7 @@
                                     <ul>
                                         {{ $baseurl := .Site.BaseURL }}
                                         {{ range $key, $value := .Site.Taxonomies.categories }}
-                                            <li><a href="{{ $baseurl  }}/{{ $key | urlize  }}">{{ $key }}</a> <span>({{ len $value }})</span></li>
+                                            <li><a href="{{ $baseurl  }}/{{ $key | urlize  }}">{{ humanize $key }}</a> <span>({{ len $value }})</span></li>
                                         {{end}}
                                     </ul>
                                 </div><!-- end link-widget -->

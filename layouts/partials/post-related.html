@@ -1,4 +1,4 @@
-{{ $related := .Site.RegularPages.Related . | first 4 }}
+{{ $related := .Site.RegularPages.RelatedIndices . "categories" "date" | first 4 }}
 {{ with $related }}
        <div class="custombox clearfix">
             <h4 class="small-title">You may also like</h4>
