@@ -1,8 +1,8 @@
 ---
-title: How to Create a Silo Structure to Boost Ranking | zBlogging
+title: How to Create a Silo Structure to Boost Ranking
 type: post
 draft: true
-SEOTitle: How to Create a Silo Structure
+SEOTitle: How to Create a Silo Structure | zBlogging
 excrept: Want to learn How to Create a Silo Structure to get more organic
   traffic from Google, Follow this post to learn how to create an engaging
   structure.
