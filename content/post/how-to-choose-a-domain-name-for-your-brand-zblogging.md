@@ -2,7 +2,7 @@
 title: How to Choose a Domain Name for Your Brand
 type: post
 draft: false
-SEOTitle: How to Choose a Domain Name for Your Brand
+SEOTitle: How to Choose a Domain Name for Your Brand | zBlogging
 excrept: A domain name is a thing that needs to be perfect, so today I'm going
   to show you How to Choose a Domain Name for Your Brand.
 metaKeywords: How to Choose a Domain Name for Your Brand
