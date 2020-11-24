@@ -1,5 +1,5 @@
 ---
-title: How to Choose a Domain Name for Your Brand | zBlogging
+title: How to Choose a Domain Name for Your Brand
 type: post
 draft: false
 SEOTitle: How to Choose a Domain Name for Your Brand
