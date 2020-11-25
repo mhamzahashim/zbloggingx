@@ -1,8 +1,8 @@
 ---
-title: 10 Best Google Chrome Extensions for SEO | zBlogging
+title: "10 Best Google Chrome Extensions for SEO "
 type: post
 draft: false
-SEOTitle: Best Google Chrome Extensions for SEO
+SEOTitle: Best Google Chrome Extensions for SEO | zBlogging
 excrept: "As an SEO expert, you're only as good as your tools allow you to be
   because of that, I've collected a list of Best Google Chrome Extensions for
   SEO that will help you to safe your time. "
