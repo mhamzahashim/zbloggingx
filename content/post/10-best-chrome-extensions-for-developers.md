@@ -34,8 +34,6 @@ Grammarly automatically detects grammar, spelling, punctuation, word choice, and
 
 ## What Font
 
-![what-font-google-extension](/uploads/what-font-google-extension.jpg "what-font-google-extension")
-
 Now, What is WhatFont? The most comfortable thanks to establishing fonts on web content What are the best thanks to deciding the fonts utilized on a webpage?
 
 Firebug and Webkit Inspector are simple enough to use for developers. However, for others, this could not be necessary. With this extension, you may examine net fonts by simply hovering on them. It's that easy and chic.
@@ -69,21 +67,24 @@ A simple on-screen ruler for designers to live something on the net. Nominated f
 Use the Evernote extension to save things you see on the web into your Evernote account. Goodbye, bookmarks. **Web Clipper** Clips the web pages you want to keep. Save them in Evernote. Easily find them on any device.
 
 **CLIP IT ALL**\
-- Great for research—clip any article or web page\
-- Clip to a specific notebook and assign tags\
-- Use Evernote to find clips on any device
+
+* Great for research—clip any article or web page\
+* Clip to a specific notebook and assign tags\
+* Use Evernote to find clips on any device
 
 ### **HIGHLIGHT AND SHARE**
 
 \- Highlight key text from any website or article\
-- Use text and visual callouts to draw attention\
-- Share and email clips or create a URL link
+
+* Use text and visual callouts to draw attention\
+* Share and email clips or create a URL link
 
 ### **CUSTOMIZE CLIPS**
 
 \- Special formats for LinkedIn, Amazon & YouTube\
-- Clip Gmail threads and attachments\
-- Clip as the entire page, selection, or simplified article
+
+* Clip Gmail threads and attachments\
+* Clip as the entire page, selection, or simplified article
 
 ## **RescueTime for Google Chrome™**
 
