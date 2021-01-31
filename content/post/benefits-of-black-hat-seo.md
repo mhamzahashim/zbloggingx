@@ -9,7 +9,7 @@ metaKeywords: Benefits of Black Hat SEO
 url: benefits-of-black-hat-seo
 date: 2020-12-01T18:20:44.931Z
 updateDate: 2020-12-11T18:20:44.982Z
-image: /uploads/black-hat-seo-techniques.jpg
+image: /uploads/best-metal-business-cards.jpg
 categories:
   - SEO
 ---
