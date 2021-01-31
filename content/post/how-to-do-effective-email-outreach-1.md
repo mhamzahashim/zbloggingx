@@ -63,7 +63,7 @@ With "personalization" we do not intend (only) to put the recipient's name in th
 
 Mirroring the subject matter is that of the body.
 
-![](/uploads/mirroring-the-subject-matter-is-that-of-the-body.jpg)
+![](/uploads/email-body-copy.jpg)
 
 Avoid in all ways to send emails that may seem "copy and paste", always try to put the person's name and other details that lead them to think that that message took time and effort to be produced and that it was written especially for him/her.
 
@@ -89,7 +89,7 @@ The reason? Perhaps because you are perceived as more "real", as "real people" .
 
 We saw just above that sending emails to multiple people, and sending a sequence of emails, allows for excellent results. But what happens when the 2 things are combined together?
 
-![](/uploads/involving-multiple-contacts-and-multiple-messages-perform-better.jpg)
+![](/uploads/involving-multiple-contacts-and-multiple.jpg)
 
 The study found that a series of emails sent to various contacts performed up to 160% better than a single email sent to a single contact.
 
