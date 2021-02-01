@@ -109,8 +109,6 @@ Furthermore, people within the community that have review privileges can comment
 
 Another metric that further adds to engagement within the Amazon community. **"Social shares,"** there's an excellent reason Amazon perfectly places social sharing buttons on a product page.
 
-![How to do Amazon Kindle Book SEO](https://cdn.semrush.com/blog/static/media/0d/a5/0da57dff3549b5ab1a9c5644d6cd2830/resize/885x395/new.png "How to do Amazon Kindle Book SEO")
-
 They want the audience the browsing audience and the customers to share the products because naturally if you share it over to Facebook or Twitter, someone sees that they reshare it or they come over to that product page and buy that product. This further aids in search engine optimization.
 
 Because again it sends a little signal over to the **Amazon algorithm** where it's like there's some relevancy there's some popularity in this particular product there might be some relevancy to this product too it's given keywords.
