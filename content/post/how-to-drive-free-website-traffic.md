@@ -21,7 +21,7 @@ First, you need to find who is your competitor in your industry. The question is
 
 Just put your URL in the search bar and click on search. **For Example,** I have put **[Neil Patel's](https://neilpatel.com)** website URL in that tool.
 
-![How to Drive Free Website Traffic](https://zblogging.com/wp-content/uploads/2019/06/Free-Website-Traffic-1.png "How to Drive Free Website Traffic")
+![](/uploads/free-website-traffic-1-1-.png)
 
 Here is the detail of Neil's Website. There is a lot of organic search on his website because he is one of the top SEO Guru and Best Digital Marketers in the industry of digital marketing. He never invests a single in a penny in paid ads, and you can see how much traffic he is getting.
 
