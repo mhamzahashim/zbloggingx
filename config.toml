@@ -1,4 +1,4 @@
-baseURL = "https://zbloggingx.netlify.app"
+baseURL = "https://zblogging.com"
 languageCode = "en-us"
 title = "zBlogging"
 paginate = 6 #Number of Post on Homepage
