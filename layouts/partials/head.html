@@ -47,10 +47,3 @@
     <meta name="twitter:title" content="{{ if .IsHome }}{{ .Title }} | {{.Site.Params.description}} {{ else }}{{ .Params.SEOTitle }}{{ end }}">
     <meta name="twitter:description" content="{{ if .IsHome }}{{.Site.Params.excrept}}{{ else }}{{.Params.excrept}}{{ end }}">
     <meta name="twitter:image" content="{{ if .IsHome }}{{.Site.Params.image}}{{else}}{{.Params.image}}{{end}}">
-
-    {{if .IsHome}}
-    {{ "<!-- SITE VERIFICATION -->" | safeHTML }}
-    <meta name="google-site-verification" content="{{.Site.Params.googleSiteVerify}}" />
-    <meta name="msvalidate.01" content="{{.Site.Params.BingWebmaster}}" />
-    <meta name="p:domain_verify" content="{{.Site.Params.PinterestVerify}}" />
-    {{end}}
