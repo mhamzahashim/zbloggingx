@@ -1,0 +1,25 @@
+{{- $options := (dict "targetPath" "main.css" "outputStyle" "expanded" "enableSourceMap" "true") -}}
+{{ $mainSassFile :=  "scss/app.scss" }}
+{{ $customCssFile :=  "css/custom.css" }}
+{{ $developmentCssFile :=  "css/app.css" }}
+{{ $customStyles := resources.Get $customCssFile }}
+{{ $devStyles := resources.Get $developmentCssFile }}
+{{- $styles := resources.Get $mainSassFile | resources.ExecuteAsTemplate $mainSassFile . | resources.ToCSS $options | resources.Fingerprint "sha512"  }}
+
+
+{{ if eq (hugo.Environment) "development" -}}
+    <style>
+        {{ $devStyles.Content | safeCSS }}
+    </style>
+{{ else }}
+    <style>
+        {{$styles.Content | safeCSS}}
+    </style>
+{{end}}
+<style>
+    {{$customStyles.Content | safeCSS}}
+</style>
+<style>
+    {{ $userCustom := resources.Get "css/user-custom.css"}}
+    {{ $userCustom.Content }}
+</style>

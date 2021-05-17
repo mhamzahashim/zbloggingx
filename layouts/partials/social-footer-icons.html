@@ -1,0 +1,30 @@
+<ul class='c-social-icons o-plain-list'>
+    {{with .Site.Params.social_accounts}}
+      <li>
+        <a href='{{ site.Params.social_accounts.sitefbAccount }}' target='_blank'>
+          <span class='c-social-nav__icon' data-icon='ei-sc-facebook' data-size='s'></span>
+        </a>
+      </li>
+    {{end}}
+    {{with .Site.Params.social_accounts}}
+      <li>
+        <a href='{{ site.Params.social_accounts.sitetwitterAccount }}' target='_blank'>
+          <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
+        </a>
+      </li>
+    {{end}}
+    {{with .Site.Params.social_accounts}}
+      <li>
+        <a href='{{ site.Params.social_accounts.siteinstagramAccount }}' target='_blank'>
+          <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
+        </a>
+      </li>
+    {{end}}
+    {{with .Site.Params.social_accounts}}
+    <li>
+      <a href='{{ site.Params.social_accounts.sitepinterestAccount }}' target='_blank'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-pinterest' data-size='s'></span>
+      </a>
+    </li>
+  {{end}}
+  </ul>

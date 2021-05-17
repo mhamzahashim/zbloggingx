@@ -1,0 +1,4 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<{{.Get "tag"}} {{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }} {{ if .Get "id" }} id="{{ .Get "id" }}"{{ end }} {{ if .Get "style" }} style="{{ .Get "style" }}"{{ end }}>
+{{ .Inner }}
+</{{.Get "tag"}}>

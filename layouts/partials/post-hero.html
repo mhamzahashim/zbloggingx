@@ -1,0 +1,15 @@
+<div class='c-post-hero'>
+    <div class='o-grid _o-grid--full'>
+      <div class='o-grid__col o-grid__col--4-4-s o-grid__col--4-4-m o-grid__col--2-3-l'>
+        <div class='c-post-hero__media'>
+          <div class='c-post-hero__image' loading="lazy" style='background-image: url( {{.Params.image | absURL}} )'></div>
+        </div>
+      </div>
+      <div class='o-grid__col o-grid__col--4-4-s o-grid__col--1-3-m'>
+        <div class='c-post-hero__content'>
+          <h1 class='c-post-hero__title'>{{.Title}}</h1>
+          <time class='c-post-card__date' datetime='{{ .Params.updateDate }}' title='{{ dateFormat "January 2, 2006" .Params.updateDate }}'> Last Updated on: {{ dateFormat "January 2, 2006" .Params.updateDate }}</time>
+        </div>
+      </div>
+    </div>
+  </div>

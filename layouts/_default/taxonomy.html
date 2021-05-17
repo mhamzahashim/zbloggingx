@@ -1,12 +1,20 @@
-{{ partial "head.html" . }}
-{{ partial "header.html" . }}
-{{ partial "term-detail.html" . }}
-<section class="section">
-    <div class="container">
-        <div class="row">
-{{ partial "post-grid.html" . }}
-{{ partial "sidebar.html" . }}
-        </div><!-- end row -->
-    </div><!-- end container -->
-</section>
-{{ partial "footer.html" . }}
+{{ define "main" }}
+    
+<div class='o-wrapper'>
+    <div class='o-grid'>
+      <div class='o-grid__col o-grid__col--full'>
+        <div class='c-archive'>
+          <h1 class='c-archive__title'>Showing Posts From {{.Data.Term}}</h1>
+          {{ if .Content }}
+            <p class='c-archive__description'>{{.Content}}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class='o-grid js-grid'>
+        {{ partial "post-card" . }}
+      </div>
+    </div>
+
+{{ end }}

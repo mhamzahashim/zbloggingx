@@ -9,5 +9,163 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    CMS.registerPreviewStyle("https://reviewstek.com/app.css");
+    CMS.registerPreviewStyle("https://reviewstek.com/custom.css");
+  </script>
+
+    <script>
+      CMS.registerEditorComponent({
+        id: "product1",
+        label: "Product Preview Style 1",
+        fields: [
+          {name: 'title', label: 'Title (e.g: Editors Choice)', widget: 'string', required: "false"},
+          {name: 'amzimg', label: 'Amazon Image Code', widget: 'string'},
+          {name: 'amzlink', label: 'Amazon Link', widget: 'string'}
+          ],
+        pattern: /{{< product1 title="([\s\S]*?)" img="([\s\S]*?)" >}}([\s\S]*?){{< \/product1 >}}/,
+        fromBlock: function(match) {
+          return {
+            title: match[1],
+            amzimg: match[2],
+            amzlink: match[3]
+          };
+        },
+        toBlock: function(obj) {
+          return `{{< product1 title="${obj.title}" img="${obj.amzimg}" >}}\n${obj.amzlink}\n{{< /product1 >}}`;
+        },
+        toPreview: function(obj) {
+          return (
+            `<div class="product-preview-type1">
+              <div class="product-choice-bar">
+                ${obj.title}
+              </div>
+              <div class="product-type1-img js-fadein"><img class="type1-img" loading="lazy" src="https://images-na.ssl-images-amazon.com/images/I/${obj.amzimg}._AC_SR500,500_.jpg" /></div>
+              <a class="product-type1-cta" href="${obj.amzlink}">Check Price</a>
+          </div>`
+          );
+        }
+      });
+    </script>
+
+    <script>
+      CMS.registerEditorComponent({
+        id: "pros",
+        label: "Pros",
+        fields: [
+          {name: 'pros', label: 'Pros', widget: 'markdown', minimal: 'true', buttons: ['none'], editor_components:['none'], modes: ['rich_text']}
+          ],
+        pattern: /^{{% pros %}}([\s\S]*?){{% \/pros %}}/,
+        fromBlock: function(match) {
+          return {
+            pros: match[1]
+          };
+        },
+        toBlock: function(obj) {
+          return `{{% pros %}}\n${obj.pros}\n{{% /pros %}}`;
+        },
+        toPreview: function(obj) {
+          return (
+            `<div class="r-s-o-f-s-pro-con">
+              <div class="r-s-o-f-s-pro">
+                  <div class="title">Pros</div>
+                  ${obj.pros}
+              </div>`
+          );
+        }
+      });
+    </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "cons",
+        label: "Cons",
+        fields: [
+          {name: 'cons', label: 'Cons', widget: 'markdown', minimal: 'true', buttons: ['none'], editor_components:['none'], modes: ['rich_text']}
+          ],
+        pattern: /^{{% cons %}}([\s\S]*?){{% \/cons %}}/,
+        fromBlock: function(match) {
+          return {
+            cons: match[1]
+          };
+        },
+        toBlock: function(obj) {
+          return `{{% cons %}}\n${obj.cons}\n{{% /cons %}}`;
+        },
+        toPreview: function(obj) {
+          return (
+            `<div class="r-s-o-f-s-pro-con">
+              <div class="r-s-o-f-s-con">
+                  <div class="title">cons</div>
+                  ${obj.cons}
+              </div>`
+          );
+        }
+      });
+    </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "amzctabutton",
+        label: "CTA Button",
+        fields: [
+          {name: 'cta', label: 'Amazon Link', widget: 'string'}
+          ],
+        pattern: /{{% button %}}([\s\S]*?){{% \/button %}}/,
+        fromBlock: function(match) {
+          return {
+            cta: match[1]
+          };
+        },
+        toBlock: function(obj) {
+          return `{{% button %}}${obj.cta}{{% /button %}}`;
+        },
+        toPreview: function(obj) {
+          return (
+            `<a class="buy-button" rel="nofollow noopener" target="_blank" href="${obj.cta}">View on Amazon</a>`
+          );
+        }
+      });
+    </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "faq",
+        label: "FAQ Block",
+        fields: [
+          {name: 'question', label: 'Question', widget: 'string'},
+          {name: 'answer', label: 'Answer', widget: 'markdown', minimal: 'true', editor_components:['none'], modes: ['rich_text']}
+          ],
+        pattern: /{{% faq question="([\s\S]*?)" %}}([\s\S]*?){{% \/faq %}}/,
+        fromBlock: function(match) {
+          return {
+            question: match[1],
+            answer: match[2]
+          };
+        },
+        toBlock: function(obj) {
+          return `{{% faq question="${obj.question}" %}}${obj.answer}{{% /faq %}}`;
+        },
+        toPreview: function(obj) {
+          return (
+            `<faq>
+              <h3>${obj.question}</h3>
+              ${obj.answer}
+            </faq>`
+          );
+        }
+      });
+    </script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "small-hr",
+        label: "Seperator Small",
+        toBlock: function(obj) {
+          return `{{< html-code tag="hr" class="small" />}}`;
+        },
+        toPreview: function(obj) {
+          return (
+            `<hr class="small">`
+          );
+        }
+      });
+    </script>
 </body>
 </html>

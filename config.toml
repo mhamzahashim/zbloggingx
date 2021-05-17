@@ -1,122 +1,39 @@
-baseURL = "https://zblogging.com"
 languageCode = "en-us"
-title = "zBlogging"
-paginate = 6 #Number of Post on Homepage
-summaryLength = 10
-
-
-# Official Setting for Your Whole Theme
-[params]
-    logo = "/images/zblogging.png" #Logo of your Website (Put Image in dir /static/images)
-    description = "Learn Digital Marketing and Blogging" #SEO Discription of your Website
-    excrept = "If you are a newbie and looking for the best blog to learn Learn Digital Marketing and Blogging, than zBlogging is the best place to Learn Blogging for Free." #SEO Exprect of Your Website
-    image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
-    icon = "/images/favicon.png" #Favicon
-    siteAbout = "If you are a newbie and looking for the best blog to learn Learn Digital Marketing and Blogging, than zBlogging is the best place to Learn Blogging for Free."
-
-    siteAuthor = "Hamza Hashim" #Your Name
-    AuthorImage = "https://secure.gravatar.com/avatar/fdd31849361d89c3fe458615ba619156?s=180&d=mm&r=g" #Your Profile Picure
-    AuthorBio = "I'm a Freelancer having skills in SEO and Social Media Marketing with over three years of experience in these fields. I have worked for many brands. I have helped businesses to gain higher visibility in search engines. I am familiar with carrying out SEO optimization practices from small to large companies." #Your Author BIO
-    contactMail = "hamza@zblogging.com" #Your Contact eMail
-
-    googleSiteVerify = "ZiKLf11vLGM02FoOIa1TdA9lgxrwuYzIOjAWXT5GQ34" #Google Search Console Verification
-    BingWebmaster = "EF98A52ADE40313A72985210538FF658" #Bing Verification
-    PinterestVerify = "c3e893a665ab073b8f73b31c193964e7" #Pinterest Verification
-
-      ##OpenGraph Meta Start
-    FacebookPublisher = "https://www.facebook.com/zblogging" #Open Graph Publisher Tag (Facebook)
-    FacebookAuthor = "https://www.facebook.com/zblogging" #Open Graph Author Tag (Facebook)
-    TwitterPublisher = "@mhamza_hashim" #Open Graph Publisher Tag (Twitter) Just Put Username
-    TwitterAuthor = "@mhamza_hashim"  #Open Graph Author Tag (Twitter) Just Put Username
-      ##OpenGraph Meta END
-
-      ##Social Media Profiles Start
-      SocialFB = "https://www.facebook.com/zblogging"
-      SocialTwitter = "https://twitter.com/@mhamza_hashim"
-      SocialInsta = "https://www.instagram.com/zblogging"
-      ##Social Media Profiles END
-
-# Theme Setting END
-
-#Don't Change These Things
-[related]
-  includeNewer = true
-  threshold = 80
-  toLower = false
-
-[[related.indices]]
-  name = "categories"
-  weight = 100
-
-[[related.indices]]
-  name = "tags"
-  weight = 100
-
-[[related.indices]]
-  name = "date"
-  weight = 100
+DisqusShortname = "reviewstek"
+baseURL = "https://reviewstek.netlify.app"
+googleAnalytics = "G-C8HGHC2K95"
+paginate = 8
+title = "ReviewsTek"
 
 [markup]
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 2
+
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 2
 
 [permalinks]
-  categories = "/:title/"
-  tags = "/:title/"
-  posts = "/:title/"
+categories = "/:title/"
+tags = "/:title/"
+posts = "/:title/"
 
-#Don't Change These Things
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
 
+[[related.indices]]
+name = "categories"
+weight = 100
 
-    #Header Menu Start (Order By Weight)
-[[menu.mainmenu]]
-  name = "SEO"
-  url = "/"
-  weight = "1"
+[[related.indices]]
+name = "tags"
+weight = 100
 
-[[menu.mainmenu]]
-  name = "Growth Hack"
-  url = "/"
-  weight = "2"
+[[related.indices]]
+name = "date"
+weight = 10
 
-[[menu.mainmenu]]
-  name = "Guest Post"
-  url = "/write-for-us/"
-  weight = "3"
-
-  #Header Menu END
-  #Footer Menu Start (Order By Weight)
-
-[[menu.footermenu]]
-  name = "About Us"
-  url = "/about/"
-  weight = "1"
-
-[[menu.footermenu]]
-  name = "Contact Us"
-  url = "/contact-us/"
-  weight = "2"
-
-[[menu.footermenu]]
-  name = "Affiliate Disclosure"
-  url = "/affiliate-disclosure/"
-  weight = "3"
-
-[[menu.footermenu]]
-  name = "Disclaimer"
-  url = "/disclaimer/"
-  weight = "4"
-
-[[menu.footermenu]]
-  name = "Privacy Policy"
-  url = "/privacy-policy/"
-  weight = "5"
-
-[[menu.footermenu]]
-  name = "Write For Us"
-  url = "/write-for-us/"
-  weight = "6"
-
-  #Footer Menu END
+[taxonomies]
+category = "categories"
+tag = "tags"

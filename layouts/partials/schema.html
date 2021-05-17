@@ -10,7 +10,7 @@
             {
                 "@type": "ContactPoint",
                 "contactType": "customer service",
-                "email": "{{.Site.Params.contactMail}}",
+                "email": "{{.Site.Params.contacteMail}}",
                 "areaServed": [
                     "US",
                     "CA",
@@ -29,12 +29,15 @@
             }
         ],
         "sameAs": [
-        {{ if .Site.Params.SocialFB }}"{{.Site.Params.SocialFB}}",{{ end }}
-        {{ if .Site.Params.SocialTwitter }}"{{.Site.Params.SocialTwitter}}",{{ end }}
-        {{ if .Site.Params.SocialYouTube }}"{{.Site.Params.SocialYouTube}}",{{ end }}
-        {{ if .Site.Params.SocialTumblr }}"{{.Site.Params.SocialTumblr}}",{{ end }}
-        {{ if .Site.Params.SocialLinkedin }}"{{.Site.Params.SocialLinkedin}}",{{ end }}
-        {{ if .Site.Params.SocialPinterest }}"{{.Site.Params.SocialPinterest}}"{{ end }}
+        {{- $socialmeda_coma := false -}}
+        {{ with .Site.Params.social_accounts }}
+
+        {{ site.Params.social_accounts.sitefbAccount }},
+        {{ site.Params.social_accounts.sitetwitterAccount }},
+        {{ site.Params.social_accounts.siteinstagramAccount }},
+        {{ site.Params.social_accounts.sitepinterestAccount }}
+
+        {{ end }}
         ]
     }
 </script>
@@ -77,15 +80,18 @@
         "@context": "https://schema.org/",
         "@type": "SiteNavigationElement",
         "name": [{{- $ncomma := false -}}
-            {{- range .Site.Menus.mainmenu -}}
+            {{- range .Site.Menus.main -}}
             {{- if $ncomma -}},{{- end -}}"{{ .Name }}"
             {{- $ncomma = true -}}
             {{- end -}}],
-        "url": [ {{- $ucomma := false -}}
-                {{- range .Site.Menus.mainmenu -}}
+        "url": [ 
+        
+                {{- $ucomma := false -}}
+                {{- range .Site.Menus.main -}}
                 {{- if $ucomma -}},{{- end -}}"{{ .URL | absURL }}"
                 {{- $ucomma = true -}}
-                {{- end -}} ]
+                {{- end -}} 
+            ]
     }
 </script>
 {{ if .IsPage }}
@@ -112,5 +118,3 @@
 {{ if .Params.schemaMarkup }}
     {{.Params.schemaMarkup | safeHTML}}    
 {{ end }}
-
-</head>

@@ -1,2 +1,5 @@
 User-agent: *
-Disallow: /
+Disallow: /cgi-bin/
+Disallow: /.netlify/
+
+Sitemap: https://reviewstek.com/sitemap.xml

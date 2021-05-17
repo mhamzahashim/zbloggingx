@@ -1,12 +1,17 @@
-{{ partial "head.html" . }}
-{{ partial "schema.html" . }}
-{{ partial "header.html" . }}
-<section class="section">
-    <div class="container">
-        <div class="row">
-{{ partial "post-grid.html" . }}
-{{ partial "sidebar.html" . }}
-        </div><!-- end row -->
-    </div><!-- end container -->
-</section>
-{{ partial "footer.html" . }}
+{{ define "main" }}
+  
+<div class='o-wrapper'>
+    <div class='o-grid js-grid'>
+
+        {{ partial "post-card" . }}
+
+    </div>
+    
+    <div class='o-grid'>
+
+        {{ partial "pagination" . }}
+
+    </div>
+</div>
+
+{{ end }}

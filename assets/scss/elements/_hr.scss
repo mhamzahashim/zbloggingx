@@ -1,0 +1,18 @@
+/*------------------------------------*\
+  Elements > hr
+\*------------------------------------*/
+
+hr {
+  height: 2px;
+  margin: double($base-spacing-unit) 0;
+
+  border: 0;
+
+  background-color: $color-border;
+}
+
+hr.small{
+  height: 2px;
+  width: 30%;
+  margin: 30px auto;
+}

@@ -1,0 +1,17 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div class="product-card">
+    <div class="product-card_img">
+        <a href="{{.Get "plink"}}" rel="nofollow noopener" target="_blank">
+            <img class="lazyload" loading="lazy" src="{{.Get "pimg" }}" alt="{{.Get "pname"}}" title="{{.Get "pname"}}" />
+        </a>
+    </div>
+    <div class="product-card_info">
+        <a href="{{.Get "plink"}}" rel="nofollow noopener" target="_blank">
+            <span class="large-font product-card_title">{{.Get "pname"}}</span>
+        </a>
+        <div class="product-card_text">
+            {{.Inner}}
+        </div>
+        <a href="{{.Get "plink"}}" rel="nofollow noopener" target="_blank" class="product-card_cta">View on Amazon</a>
+    </div>
+</div>

@@ -1,12 +1,39 @@
-{{ partial "head.html" . }}
-{{ partial "schema.html" . }}
-{{ partial "header.html" . }}
-<section class="section single-wrapper">
-    <div class="container">
-        <div class="row">
-{{ partial "post-single.html" . }}
-{{ partial "sidebar.html" . }}
-        </div><!-- end row -->
-    </div><!-- end container -->
-</section>
-{{ partial "footer.html" . }}
+{{ define "main" }}
+    
+ {{ partial "post-hero" . }}
+
+
+<div class='o-wrapper'>
+    <div class='o-grid'>
+      <div class='o-grid__col o-grid__col--2-3-m'>
+        <article class='c-post'>
+  
+          <div class='c-content article'>
+            <nav id="toc" class="table-of-contents">
+                <div class="toc-title">Table of Contents [ <a id="togglebutton" href="javascript:toggletoc()">Show</a> ]</div>
+            </nav>
+            {{ .Content | htmlUnescape | safeHTML }}
+          </div>
+  
+          <div class='o-grid'>
+            <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--3-4-l'>
+              <div class='c-tags'>
+                {{ with .Params.tags }}
+                    <a href='{{index . 0 | urlize}}'> {{index . 0}}</a>
+                {{end}}
+              </div>
+            </div>
+            <div class='o-grid__col o-grid__col--4-4-s o-grid__col--1-4-m o-grid__col--1-4-l'>
+              {{ partial "share" . }}
+            </div>
+          </div>
+          <hr>
+          {{ partial "disqus" . }}
+        </article>
+      </div>
+          {{ partial "sidebar" . }}
+    </div>
+  </div>
+
+
+{{ end }}

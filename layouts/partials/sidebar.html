@@ -1,69 +1,7 @@
-                    <div class="site-sidebar col-lg-3 col-md-12 col-sm-12 col-xs-12">
-                        <div class="sidebar">
+<div class='o-grid__col o-grid__col--1-3-m sidebar'>
+<div class='c-sidebar'>
+    {{ partial "widgets/author-box.html" . }}
 
-                            <div class="widget">
-                                <div class="banner-spot clearfix">
-                                    <div class="banner-img">
-                                        <img src="/images/banner_07.jpg" alt="ad" class="img-fluid">
-                                    </div><!-- end banner-img -->
-                                </div><!-- end banner -->
-                            </div><!-- end widget -->
-
-
-                            {{ if .IsPage }}
-                            {{ $related := .Site.RegularPages.Related . | first 5 }}
-                            {{ with $related | shuffle }}
-                            <div class="widget">
-                                <h2 class="widget-title">Popular Posts</h2>
-                                <div class="blog-list-widget">
-                                    <div class="list-group">
-                                        {{ range . }}
-                                        <div class="list-group-item list-group-item-action flex-column align-items-start">
-                                        <a href="{{.Permalink}}">
-                                            <div class="w-100 justify-content-between">
-                                                <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="img-fluid float-left">
-                                                <h5 class="mb-1">{{.Title}}</h5>
-                                                <small><a href="{{.Permalink}}" title="">{{ .PublishDate.Format "January 2, 2006" }}</a></small>
-                                            </div>
-                                        </a></div>
-                                        {{ end }}
-                                    </div>
-                                </div><!-- end blog-list -->
-                            </div><!-- end widget -->
-                            {{end}}
-                            {{ end }}
-
-                            {{ if .IsHome }}
-                            {{ $recent := .Site.RegularPages | shuffle }}
-                            {{ with $recent | first 5 }}
-                            <div class="widget">
-                                <h2 class="widget-title">Recent Posts</h2>
-                                <div class="blog-list-widget">
-                                    <div class="list-group">
-                                        {{ range . }}
-                                        <a class="list-group-item list-group-item-action flex-column align-items-start" href="{{.Permalink}}">
-                                            <div class="w-100 justify-content-between">
-                                                <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" class="recent-img img-fluid float-left">
-                                                <h5 class="mb-1">{{.Title}}</h5>
-                                                <small>{{ .PublishDate.Format "January 2, 2006" }}</small>
-                                            </div>
-                                        </a>
-                                        {{ end }}
-                                    </div>
-                                </div><!-- end blog-list -->
-                            </div><!-- end widget -->
-                            {{end}}
-                            {{ end }}
-                            <div class="widget">
-                                <h2 class="widget-title">Categories</h2>
-                                <div class="link-widget">
-                                    <ul>
-                                        {{ $baseurl := .Site.BaseURL }}
-                                        {{ range $key, $value := .Site.Taxonomies.categories }}
-                                            <li><a href="{{ $baseurl  }}/{{ $key | urlize  }}">{{ humanize $key }}</a> <span>({{ len $value }})</span></li>
-                                        {{end}}
-                                    </ul>
-                                </div><!-- end link-widget -->
-                            </div><!-- end widget -->
-                        </div><!-- end sidebar -->
-                    </div><!-- end col -->
+    {{ partial "widgets/recent-posts-widget.html" . }}
+</div>
+</div>

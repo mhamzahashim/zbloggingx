@@ -1,0 +1,22 @@
+{{ with .Site.Params.siteAuthor }}
+    
+<div class='c-widget c-widget-author'>
+
+    {{ if site.Params.siteAuthor.avatar }}
+    <div class='c-widget-author__media'>
+        <img class='c-widget-author__image' src='{{site.Params.siteAuthor.avatar}}' alt='{{site.Params.siteAuthor.name}}'>
+    </div>
+    {{ end }}
+  
+    <div class='c-widget-author__content'>
+      <h3 class='c-widget-author__title'>
+        {{ site.Params.siteAuthor.name }}
+      </h3>
+      {{ if site.Params.siteAuthor.bio }}
+        <p class='c-widget-author__bio'>{{site.Params.siteAuthor.bio}}</p>
+      {{end}}
+
+    </div>
+  
+  </div>
+  {{ end }}

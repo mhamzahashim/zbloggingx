@@ -1,18 +1,20 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: main # Branch to update (optional; defaults to master)
 
-site_url: zblogging.com
+site_url: https://reviewstek.com
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
+
 
 collections:
 
 #Posts Collection
   - name: "posts"
     label: "Posts"
-    folder: "content/post"
+    folder: "content/posts"
+    preview_path: "{{fields.url}}"
     create: true
     fields:
       - {label: "Title", name: "title" , widget: "string", required: true}
@@ -24,16 +26,38 @@ collections:
       - {label: "Slug", name: "url", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Modify Date", name: "updateDate", widget: "datetime"}
-      - {label: "Featured Image (Size 1200x680)", name: "image", widget: "image", required: false}
-      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Featured Image", hint: '(Size 1200x680)', name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], create: true, multiple: true, required: false}
       - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
       - {label: "Schema Markup", name: "schemaMarkup", widget: "text", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+#KnowledgeBase Collection
+  - name: "knowledge-base"
+    label: "Knowledge Base"
+    folder: "content/knowledge-base"
+    preview_path: "{{fields.url}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "knowledge-base"}
+      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Discription", name: "excrept", widget: "text", required: false}
+      - {label: "Focus Keywords", name: "metaKeywords", widget: "string", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
+      - {label: "Featured Image", hint: '(Size 1200x680)', name: "image", widget: "image", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Schema Markup", name: "schemaMarkup", widget: "text" , required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
 #Pages Collection
   - name: "pages"
     label: "Pages"
-    folder: "content/page"
+    folder: "content/pages"
     create: true
     fields:
       - {label: "Title", name: "title" , widget: "string", required: true}
@@ -55,8 +79,8 @@ collections:
     fields: 
       - {name: name, label: Name}
       - {name: SEOTitle, label: SEOTitle}
-      - {name: excrept, label: SEO Discription}
       - {name: url, label: Slug}
+      - {name: "excrept, body", label: SEO Discription, widget: "markdown"}
 
 #Tags Collection
   - name: tags
@@ -68,5 +92,68 @@ collections:
     fields: 
       - {name: name, label: Name}
       - {name: SEOTitle, label: SEOTitle}
-      - {name: excrept, label: SEO Discription}
       - {name: url, label: Slug}
+      - {name: "excrept, body", label: SEO Discription, widget: "markdown"}
+
+#Settings
+  - name: settings
+    label: Site Settings
+    files: 
+      - label: "About Site"
+        name: "about"
+        file: "/config.toml"
+        fields:
+          - { label: Site URL, name: baseURL, widget: string, required: false }
+          - { label: Site Title, name: title, widget: string, required: false }
+          - { label: Language, name: languageCode, widget: string, default: en-us, required: false }
+          - { label: Total Post to Show on Frontpage, name: paginate, widget: string, default: 8, required: false }
+          - { label: Google Analytics Code, name: googleAnalytics, widget: string, required: false }
+          - { label: Disqus Shortname, name: DisqusShortname, widget: string, required: false }
+      - label: "SEO Settings"
+        name: "seo_settings"   
+        file: "/config/_default/params.toml"
+        fields:
+          - {label: Site Logo, name: logo, widget: image, required: false}
+          - {label: Favicon, name: icon, widget: image, hint: '128x128.', required: false}
+          - {label: Extended Title, name: description, widget: string, required: false}    
+          - {label: Contact eMail, name: contacteMail, widget: string, required: false}    
+          - label: "Open Graph Meta"
+            name: "open_graph"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Meta Description, name: excrept, widget: text, required: false}
+             - {label: Meta Image, name: image, hint: '1920x1080', widget: image, required: false }
+             - {label: Facebook Publisher, name: facebookPublisher, widget: string, required: false}
+             - {label: Facebook Author, name: facebookAuthor, widget: string, required: false}
+             - {label: Twitter Publisher, name: twitterPublisher, widget: string, required: false}
+             - {label: Twitter Author, name: twitterAuthor, widget: string, required: false}
+          - label: "Site Verifications"
+            name: "verifications"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Google Search Console Tag, name: googleSiteVerify, widget: string, required: false}
+             - {label: Bing Webmaster Tag, name: BingWebmaster, widget: string, required: false}
+             - {label: Pinterest Tag, name: PinterestVerify, widget: string, required: false}
+             - {label: Yandex Tag, name: YandexVerify, widget: string, required: false}
+          - label: "Author"
+            name: "siteAuthor"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: Name, name: name, widget: string, required: false}
+              - { label: Author Avatar, name: avatar, widget: image, required: false}   
+              - { label: Author Bio, name: bio, widget: text, required: false}
+              - { label: Author Facebook, name: authorFB, widget: string, required: false}
+              - { label: Author Twitter, name: authortwitter, widget: string, required: false}
+              - { label: Author eMail, name: authorMail, widget: string, required: false}             
+          - label: "Social Media Accounts"
+            name: "social_accounts"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: Facebook, name: sitefbAccount, widget: string, required: false}
+              - { label: Twitter, name: sitetwitterAccount, widget: string, required: false}
+              - { label: Instagram, name: siteinstagramAccount, widget: string, required: false}
+              - { label: Pinterest, name: sitepinterestAccount, widget: string, required: false}

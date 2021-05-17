@@ -1,0 +1,19 @@
+{{ $related := .Site.RegularPages.RelatedIndices . "categories" "tags" "date" | first 5 }}
+{{ with $related }}
+<div class='c-widget'>
+    <h5 class='c-widget__title'>Related Posts</h5>
+    {{ range . }}
+        <a href='{{ .Permalink | absURL }}' class='c-teaser'>
+          <div class='c-teaser__content'>
+            <h3 class='c-teaser__title'>{{ .Title }}</h3>
+            <time class='c-teaser__date' datetime='{{ .PublishDate }}' title='{{ dateFormat "January 2, 2006" .PublishDate }}'>{{ dateFormat "January 2, 2006" .PublishDate }}</time>
+          </div>
+          {{ if .Params.image }}
+          <div class='c-teaser__media'>
+            <div class='c-teaser__image' loading="lazy" style='background-image: url( {{.Params.image | absURL}} )' aria-label='{{ .Title }}'></div>
+          </div>
+          {{ end }}
+        </a>
+    {{ end }}
+  </div>
+  {{end}}

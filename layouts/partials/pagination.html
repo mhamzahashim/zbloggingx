@@ -1,16 +1,10 @@
-        <div class="col-md-12">
-            <nav aria-label="Page navigation">
-                <ul class="pagination justify-content-center">
-                    {{if .Paginator.HasNext}}
-                    <li class="page-item">
-                        <a class="page-link" href="{{ .Paginator.Next.URL }}">Previous</a>
-                    </li>
-                    {{end}}
-                {{if .Paginator.HasPrev}}
-                    <li class="page-item">
-                        <a class="page-link" href="{{ .Paginator.Prev.URL }}">Next</a>
-                    </li>
-                </ul>
-                {{end}}
-            </nav>
-        </div><!-- end col -->
+  <div class='o-grid__col o-grid__col--center o-grid__col--4-4-s o-grid__col--1-3-l'>
+    <div class='c-pagination'>
+      {{if .Paginator.HasNext}}
+      <a href="{{ .Paginator.Next.URL }}"><button class='c-btn {{ if eq .Paginator.PageNumber 1 }} c-btn--full {{ else }} c-btn--half {{ end }}'>Older Posts</button></a>
+      {{end}}
+      {{if .Paginator.HasPrev}}
+      <a href="{{ .Paginator.Prev.URL }}"><button class='c-btn {{ if ne .Paginator.PageNumber 1 }} c-btn--half {{ else }} c-btn--full {{end}}'>Newer Posts</button></a>
+      {{end}}
+    </div>
+  </div>

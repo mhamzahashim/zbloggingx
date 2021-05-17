@@ -1,0 +1,39 @@
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = "1"
+
+[[main]]
+  name = "Kitchen"
+  url = "/kitchen/"
+  weight = "2"
+
+[[main]]
+  name = "Home Improvement"
+  url = "/home-improvement/"
+  weight = "3"
+
+[[footer]]
+  name = "About US"
+  url = "/about-us/"
+  weight = "1"
+
+[[footer]]
+  name = "Contact US"
+  url = "/contact-us/"
+  weight = "2"
+
+[[footer]]
+  name = "Privacy Policy"
+  url = "/privacy-policy/"
+  weight = "3"
+
+[[footer]]
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = "4"
+
+[[footer]]
+  name = "Affiliate Disclosure"
+  url = "/affiliate-disclosure/"
+  weight = "5"

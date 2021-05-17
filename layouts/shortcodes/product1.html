@@ -1,0 +1,11 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<div class="product-preview-type1">
+    {{ if .Get "title" }}
+    <div class="product-choice-bar">
+        {{.Get "title"}}
+    </div>
+    {{ end }}
+    <div class="product-type1-img js-fadein"><img class="type1-img" loading="lazy" src="https://images-na.ssl-images-amazon.com/images/I/{{.Get "img"}}._AC_SR500,500_.jpg" /></div>
+    <a class="product-type1-cta" href="{{ .Inner }}">Check Price</a>
+</div>
