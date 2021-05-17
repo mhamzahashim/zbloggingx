@@ -357,21 +357,21 @@
   }
 /* Table Responsize End */
 
-div faq {
+div .faq {
         padding: 5%;
         display: block;
-        background-color: rgba(83, 138, 198, 0.363);
+        background-color: rgba(226, 170, 85, 0.363);
         box-shadow: 0 5px 5px #ddd;
         border-radius: 7px;
         margin: 5%;
 }
-div faq h3 {
+div .faq h3 {
     color: #000;
     font-size: 19px;
 }
 
 @media screen and (max-width: 768px) {
-  div faq{
+  div .faq{
     margin: 30px auto;
     padding: 30px;
   }

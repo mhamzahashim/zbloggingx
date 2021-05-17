@@ -3,16 +3,6 @@
   url = "/"
   weight = "1"
 
-[[main]]
-  name = "Kitchen"
-  url = "/kitchen/"
-  weight = "2"
-
-[[main]]
-  name = "Home Improvement"
-  url = "/home-improvement/"
-  weight = "3"
-
 [[footer]]
   name = "About US"
   url = "/about-us/"

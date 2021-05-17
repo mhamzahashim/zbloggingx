@@ -9,4 +9,11 @@
         width: fit-content;
     }
 </style>
-<h2 class="faq-heading">Frequently Asked Questions</h2>
+{{ if .Inner }}
+<div itemscope itemtype="https://schema.org/FAQPage">
+    <h2 id="faqs" class="faq-heading">Frequently Asked Questions</h2>
+    {{.Inner}}
+</div>
+{{ else }}
+<h2 id="faqs" class="faq-heading">Frequently Asked Questions</h2>
+{{end}}

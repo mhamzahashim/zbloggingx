@@ -1,8 +1,21 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 
-<div>
-<faq>
-    <h3>{{.Get "question"}}</h3>
-    {{.Inner}}
-</faq>
+{{ if .IsNamedParams }}
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq">
+    <h3 itemprop="name" id="{{ .Get "question" | anchorize }}">{{ .Get "question" }}</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            {{.Inner}}
+        </div>
+    </div>
 </div>
+{{ else }}
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq">
+    <h3 itemprop="name" id="{{ .Get 1 | anchorize }}">{{.Get 1 }}</h3>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">
+            {{.Inner}}
+        </div>
+    </div>
+</div>
+{{end}}
