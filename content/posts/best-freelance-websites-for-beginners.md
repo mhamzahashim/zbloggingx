@@ -164,6 +164,8 @@ Depending on your area of expertise and skills, you can choose your favorite fre
 
 ## Best Freelance Websites for Beginners:
 
+Below is a list of some of the best freelancing websites every beginner can use to start freelancing and earn money.
+
 **Fiverr:**
 
 It is one of the best freelancing platforms and even I started my career from Fiverr. Fiverr was founded by **Micha Kaufman** and Shai Wininger, and was launched in February 2010.
