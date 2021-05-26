@@ -4,7 +4,7 @@ type: post
 draft: false
 SEOTitle: Best Freelance Websites for Beginners | zBlogging
 metaKeywords: Best Freelance Websites for Beginners
-url: Best Freelance Websites for Beginners
+url: best-freelance-websites-for-beginners
 date: 2021-05-26T17:13:31.024Z
 updateDate: 2021-05-26T17:13:31.078Z
 ---
