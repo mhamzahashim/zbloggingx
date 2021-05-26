@@ -73,14 +73,15 @@ There are four types of SEO only.
 
 ## Some Frequently Asked Questions about SEO
 
-1. ```
-   ### How Long Does it Take to Learn SEO?
-   Learn the basics of SEO in 1-3 months. The basics of search engine optimization can be learned within three months, while the more advanced concepts take anywhere between 6-18 months. This depends on how much information you consume daily and whether you learn from experts.
-   ```
+Many newbies have questions in their mind before starting learning SEO., so I have collected the most popular questions, and I'm going to answer them for you.
 
 ### Is SEO a Good Career?
 
 A career as an SEO or professional online marketer is one of the best careers for smart and passionate individuals, but it’s not for the faint-hearted. The SEO industry is always evolving, which is why it’s very challenging. You can become successful in SEO by learning and applying your skills practically. SEO is more important than ever! It’s still one of the most powerful digital marketing strategies that drive long-term results.
+
+### How Long Does it Take to Learn SEO?
+
+Learn the basics of SEO in 1-3 months. The basics of search engine optimization can be learned within three months, while the more advanced concepts take anywhere between 6-18 months. This depends on how much information you consume daily and whether you learn from experts.
 
 ### Is Seo a Hard Skill to Learn?
 
