@@ -3,6 +3,9 @@ title: "Top Tech Skills in Demand : The Future of It"
 type: post
 draft: false
 SEOTitle: "Top Tech Skills in Demand : The Future of IT | zBlogging"
+excrept: Technology is growing day by day if you want to live and survive in the
+  latest age of tech. You need to learn the Top Tech Skills in Demand. These
+  skills will help you in future.
 metaKeywords: "Top Tech Skills in Demand : The Future of It"
 url: top-tech-skills-in-demand-the-future-of-it
 date: 2021-05-26T17:19:44.526Z
