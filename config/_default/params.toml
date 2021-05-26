@@ -4,26 +4,26 @@ description = "Top Unbiased Kitchen Products Reviews & Buying Guides"
 contacteMail = "hamzajaani143@gmail.com"
 
 [open_graph]
-excrept = "At Reviews Tek, we provide Top Unbiased Home & Kitchen Products Reviews & Buying Guides, and comparison charts are just a few things we offer to help you find the best available product in the market."
-facebookPublisher = "reviewstek"
-facebookAuthor = "reviewstek"
-twitterPublisher = "reviewstek"
-twitterAuthor = "reviewstek"
-image = "/uploads/reviewstek_cover.png"
+excrept = "If you are a newbie and looking for the best blog to learn Learn Digital Marketing and Blogging then zBlogging is the best place to Learn Blogging for Free.\n"
+facebookPublisher = ""
+facebookAuthor = ""
+twitterPublisher = ""
+twitterAuthor = ""
+image = ""
 
 [verifications]
-PinterestVerify = "1fd9d971d18c32f55134165f30b04cfd"
-googleSiteVerify = "qNyQQCBTeTo5eZYmYNK2wqqO0FeOM6TkvmVAwgkeCwY"
-BingWebmaster = "E842FE084CF7EFAD862AD9A8494E086E"
-YandexVerify = "653a1d9612d4eba2"
+PinterestVerify = ""
+googleSiteVerify = ""
+BingWebmaster = ""
+YandexVerify = ""
 
 [siteAuthor]
-name = "Mark Durani"
-avatar = "/uploads/mark.jpg"
+name = "Hamza Hashim"
+avatar = ""
 bio = "This is Mark, I am a passionate blogger and love to review new products for daily use."
 
 [social_accounts]
 sitefbAccount = "https://www.facebook.com/reviewtek"
-sitetwitterAccount = "https://twitter.com/ReviewsTek"
-siteinstagramAccount = "https://www.instagram.com/reviewstek/"
-sitepinterestAccount = "https://www.pinterest.com/reviewstek/"
+sitetwitterAccount = ""
+siteinstagramAccount = ""
+sitepinterestAccount = ""
