@@ -16,13 +16,13 @@ When we perform a search, for example, in Google, we see a list of different res
 
 It is the process of improving the visibility of a website, positioning it in the main search engines, understood how to google, yahoo, etc. SEO is a type of organic positioning; since it is not paid to appear in the best positions, it is achieved through tricks, strategies, and functional development of the site.
 
-**SEO** has a branding value since users associate the excellent positioning of the website with the prestige of the brand. Being in a better place generates a more significant number of visits.
+SEO has a branding value since users associate the excellent positioning of the website with the prestige of the brand. Being in a better place generates a more significant number of visits.
 
-### What factors does SEO take into account?
+## What factors does SEO take into account?
 
 SEO merges two elements. On the one hand, it considers **how search engines work,** and on the other, **how users search**. It is imperative to optimize the website to facilitate the information contained on our website so that the search engines position us correctly. Therefore, investigate how users search our products or services in search engines is essential to obtain good results.
 
-### How do search engines work?
+## How do search engines work?
 
 To carry out a successful strategy, you need to know how search engines work. First, always keep in mind that search engines meet the information needs of users. The results are updated regularly using algorithms, which means that the positions can change.
 
@@ -34,7 +34,7 @@ The most relevant pages may not merely appear at the top of Google’s search re
 
 For example, the keyword **“cookie recipes” brings up 349 million results in Google**.
 
-### What is the Benefit of SEO?
+## What are the Benefits of SEO?
 
 SEO offers different benefits and utilities. It is essential to understand that not all businesses use this tool with the same objective, and therefore the strategies will not be the same; there is no strict guideline to follow. Every business has a **different SEO strategy**.
 
@@ -44,11 +44,11 @@ Therefore, we must avoid using the SEO tool as an independent strategy. That is,
 
 Also, you can provide SEO services on **[freelance job sites](https://zblogging.com/best-freelance-websites-for-beginners/)** to earn money.
 
-## Why we follow Google SE?
+## Why we follow Google Search Engine?
 
 The top source of traffic is search, as you can see: Almost **86% of all internet traffic** originates from Google searches, and if you add in the traffic from other popular search engines (like Bing, Yahoo, and YouTube), **14%** of all traffic is derived from these search engines.
 
-**Some Popular Search Engines:**
+### **Some Popular Search Engines:**
 
 * Google (With Over 86% of the Search Market Share)
 * DuckDuckGo ( Secure than Google )
@@ -73,9 +73,10 @@ There are four types of SEO only.
 
 ## Some Frequently Asked Questions about SEO
 
-### How Long Does it Take to Learn SEO?
-
-Learn the basics of SEO in 1-3 months. The basics of search engine optimization can be learned within three months, while the more advanced concepts take anywhere between 6-18 months. This depends on how much information you consume daily and whether you learn from experts.
+1. ```
+   ### How Long Does it Take to Learn SEO?
+   Learn the basics of SEO in 1-3 months. The basics of search engine optimization can be learned within three months, while the more advanced concepts take anywhere between 6-18 months. This depends on how much information you consume daily and whether you learn from experts.
+   ```
 
 ### Is SEO a Good Career?
 
