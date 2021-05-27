@@ -3,6 +3,10 @@ title: Things you Need to know About Google’s Core Updates
 type: post
 draft: false
 SEOTitle: Things you Need to know About Google’s Core Updates | zBlogging
+excrept: Most people don't understand the Google Updates; the following are
+  Things you Need to Know About Google's Core Updates that will help you rank
+  your website.
+metaKeywords: Things you Need to know About Google’s Core Updates
 url: things-you-need-to-know-about-googles-core-updates
 date: 2021-05-27T07:53:10.004Z
 updateDate: 2021-05-27T07:53:10.052Z
