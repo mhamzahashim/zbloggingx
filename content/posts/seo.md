@@ -1,7 +1,7 @@
 ---
 title: SEO
 type: post
-draft: true
+draft: false
 date: 2021-05-29T12:48:31.158Z
 updateDate: 2021-05-29T12:48:31.211Z
 ---
