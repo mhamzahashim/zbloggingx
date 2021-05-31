@@ -11,6 +11,8 @@ url: why-search-engine-optimization-is-important
 date: 2021-05-26T17:27:23.138Z
 updateDate: 2021-05-26T17:27:23.164Z
 image: /uploads/why-search-engine-optimization-is-important.jpg
+categories:
+  - SEO
 ---
 You’ve likely heard hundreds of times that SEO is important in digital marketing. However, even if you understand it generally, you may still not have a solid understanding of incorporating this valuable tool into your marketing strategy.
 
