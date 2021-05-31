@@ -1,5 +1,5 @@
 ---
-title: "Top Tech Skills in Demand : The Future of It"
+title: "Top Tech Skills in Demand: The Future of It"
 type: post
 draft: false
 SEOTitle: "Top Tech Skills in Demand : The Future of IT | zBlogging"
