@@ -11,6 +11,8 @@ url: things-you-need-to-know-about-googles-core-updates
 date: 2021-05-27T07:53:10.004Z
 updateDate: 2021-05-27T07:53:10.052Z
 image: /uploads/things-you-need-to-know-about-googles-core-updates.jpg
+categories:
+  - Google Updates
 ---
 Exactly one year after the Medic Update (and no one dares to say it’s a coincidence …), Google has published a post on its Webmaster Central Blog entitled ” *[What webmasters should know about Google’s” core updates “](https://developers.google.com/search/blog/2019/08/core-updates)*.
 
