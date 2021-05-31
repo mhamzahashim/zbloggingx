@@ -11,6 +11,8 @@ url: top-tech-skills-in-demand-the-future-of-it
 date: 2021-05-26T17:19:44.526Z
 updateDate: 2021-05-26T17:19:44.560Z
 image: /uploads/top-tech-skills-in-demand-the-future-of-it.jpg
+categories:
+  - Freelancing
 ---
 In the future, IT is changing, and it's your job to change with it. Top Tech Skills in Demand will help you keep up-to-date on what skills are most important right now so that your career can stay relevant. You'll learn about new trends and technologies that are shaping the industry, as well as how they might affect your job prospects.
 
