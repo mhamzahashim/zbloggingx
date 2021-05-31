@@ -127,6 +127,7 @@ We are sure that you have been looking for the best freelance jobs that pay well
 ## Pros and Cons of Freelancing
 
 {{% pros %}}
+
 Flexible working hours
 
 Freedom of work location
@@ -142,9 +143,11 @@ No uniform and no office politics
 You are your own boss.
 
 Work on any skill you want
+
 {{% /pros %}}
 
 {{% cons %}}
+
 Inconsistency of work and payout
 
 You have to constantly find new clients for regular work
@@ -158,6 +161,7 @@ No leaves granted
 Isolation and lack of structure in work
 
 Bid wars
+
 {{% /cons %}}
 
 Depending on your area of expertise and skills, you can choose your favorite freelance job website from the list below.
@@ -202,9 +206,9 @@ As the leading marketplace for freelance talent in the UK, PeoplePerHour holds a
 
 **99Designs**:
 
-This freelancing platform that is popular for the flexibility and global reach it provides to professionals. If you are a graphics designer with great skills, the platform is a great place for you to try it out.
+This freelancing platform is popular for the flexibility and global reach it provides to professionals. If you are a graphics designer with great skills, the platform is a great place for you to try it out.
 
-With a huge customer base, 99Designs can help you find a project as the system is backed by a significant business community which thrives on growth. This freelancing platform is best especially for graphics designer only.
+With a huge customer base, 99Designs can help you find a project as the system is backed by a significant business community that thrives on growth. This freelancing platform is best especially for graphics designers only.
 
 **LinkedIn**:
 
@@ -216,15 +220,15 @@ One downside of LinkedIn is that since so many people are on the site, you’re 
 
 In 2011, Fivesquid was launched as a start-up company to watch because Theo Paphitis highlighted the company as part of his Small Business Sunday competition.
 
-As of 2011, people have been selling a host of services through the website, including former UK version of The X Factor contestant Kitty Brucknell, who offered to send you a voicemail for £5.
+As of 2011, people have been selling a host of services through the website, including the former UK version of The X Factor contestant Kitty Brucknell, who offered to send you a voicemail for £5.
 
 **Guru**:
 
-Guru Inc. was founded in 1999 in San Francisco as an online clearinghouse for high tech workers seeking short-term contracts. The company, led by brothers Jon and James Slavet, raised $3M in angel funding and a further $16M in a full venture round led by Greylock Partners and August Capital\[]](http://web.archive.org/web/20210119050339/https://en.wikipedia.org/wiki/Guru.com#cite_note-:0-3) In a May 2000 interview,
+Guru Inc. was founded in 1999 in San Francisco as an online clearinghouse for high tech workers seeking short-term contracts. The company, led by brothers Jon and James Slavet, raised $3M in angel funding and a further $16M in a full venture round led by Greylock Partners and August Capita In a May 2000 interview,
 
 Paul Saffo cited **Guru.com** as an example of a company using the Internet to provide new kinds of services where individuals negotiated directly with potential employers.
 
-The company was acquired in December 2002 by Unicru, a human resources software company based in Portland, Oregon. Guru’s technology and staff remained with Unicru. It is best jobs website for wordpress developers. You can sell designing and developing services on this platform.
+The company was acquired in December 2002 by Unicru, a human resources software company based in Portland, Oregon. Guru’s technology and staff remained with Unicru. It is the best jobs website for Wordpress developers. You can sell designing and developing services on this platform.
 
 This platform lets users get paid not only by the hour or the task, but also based on milestones and recurring payments.
 
@@ -244,7 +248,7 @@ The site’s members receive a limited number of bids, which are periodically re
 
 Hire top freelancers: developers, web designers, writers, and all kinds of experts, and find freelance jobs on Workana, the leading freelance marketplace. The best place to find and hire expert freelancers.
 
-You can Build a freelance career from where you stand and reach out to hundreds of clients! Make a living out of your passion, managing your own time and workplace.
+You can build a freelance career from where you stand and reach out to hundreds of clients! Make a living out of your passion, managing your own time and workplace.
 
 **Toptal**:
 
@@ -252,17 +256,13 @@ If you are an experienced designer, software engineer, or finance specialist who
 
 This service helps freelancers connect with companies seeking top talent. Whether you need a part-time or full-time job, Toptal can get it for you. It is excellent if you have skills accustomed to working in critical jobs.
 
-## Frequently Asked Questions
+## Some Frequently Asked Questions about Freelancing
 
 Many beginners have questions in their minds before starting freelancing like which freelancing website is best, where to start etc. I have collected the most popular questions and will answer them based on my experience.
 
-### How to select the best Freelance Website?
+{{% faq question="How to select the best Freelance Website?" %}}Try to find a freelance website that is more specific based on your skills rather than a general freelance website. Like 99designs which is specially created for graphics designers. It is good to research the freelance website from forums and people who are already working with that website.{{% /faq %}}
 
-Try to find a freelance website that is more specific based on your skills rather than a general freelance website. Like 99designs which is specially created for graphics designers. It is good to research the freelance website from forums and people who are already working with that website
-
-### How to Benefit From Freelancing Platforms?
-
-In the first few months of your freelance career, you’ll find it helpful to remember a few things in order to avoid making common freelancer mistakes. Knowing freelance platforms can give you benefits.
+{{% faq question="How to Benefit From Freelancing Platforms?" %}}In the first few months of your freelance career, you’ll find it helpful to remember a few things in order to avoid making common freelancer mistakes. Knowing freelance platforms can give you benefits.
 
 The most significant of these is your ability to market your services. Many freelance professionals already use freelance platforms, but this isn’t true for newbies.\
 You will learn a lot of things after creating an account and the first thing is sending proposals to clients by doing the bidding.
@@ -270,19 +270,13 @@ You will learn a lot of things after creating an account and the first thing is 
 Your proposal should be very effective so that it should attract the buyers to read.\
 Make sure to make no mistake in the beginning because if you did a mistake the algorithm of that website will rank down your profile or gigs. 
 
-Never ask a client to give you a 5-star review. This is a common mistake that every beginner makes while doing freelancing even I did this in the beginning. Try to deliver the order before the due date. **Because time is money.**
+Never ask a client to give you a 5-star review. This is a common mistake that every beginner makes while doing freelancing even I did this in the beginning. Try to deliver the order before the due date. **Because time is money.**{{% /faq %}}
 
-### What are the best freelance websites for beginners?
+{{% faq question="What are the best freelance websites for beginners?" %}}As I told you above that Fiverr and Upwork both are good platforms but for beginners, I would recommend starting your career from Fiverr. Because there you can get free 10 buying requests and if we consider Upwork we have to buy connects in order to send requests or proposal.{{% /faq %}}
 
-As I told you above that Fiverr and Upwork both are good platofrms but for beginners, I would recommend start your career from Fiverr. Because there you can get free 10 buying request and if we consider upwork we have to buy connects in order to send requests or proposal.
+{{% faq question="Which is the best freelancing platform for web design?" %}}People Per Hour and Guru both are the best freelancing platform for beginners and they are especially for web designers. You can find a lot of projects related to web design on these two websites.{{% /faq %}}
 
-### Which is the best freelancing platform for web design?
-
-People Per Hour and Guru both are the best freelancing platform for beginners and they are especially for web designers. You can find a lot of projects related to web design on these two websites.
-
-### Which skill should I learn for Freelancing?
-
-It depends on you, if you have a creative mind and love creativity then you can learn graphics designing and join 99designs freelancing job site. If you want to into the digital marketing field, then you can learn SEO and try on Upwork.
+{{% faq question="Which skill should I learn for Freelancing?" %}}It depends on you, if you have a creative mind and love creativity then you can learn graphics designing and join 99designs freelancing job site. If you want to into the digital marketing field, then you can learn SEO and try on Upwork.{{% /faq %}}
 
 **Conclusion**:
 
