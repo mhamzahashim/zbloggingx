@@ -10,6 +10,8 @@ url: how-to-increase-organic-reach-on-facebook
 date: 2021-05-31T18:05:43.211Z
 updateDate: 2021-05-31T18:05:43.251Z
 image: /uploads/how-to-increase-organic-reach-on-facebook.jpg
+categories:
+  - Facebook
 ---
 A lot of people have a Facebook page and post regular content, but they don't get organic reach on Facebook. Businesses spend a lot of money on their Facebook pages for advertisements and many others, but they can also get organic reach on Facebook by following a step-by-step process.
 
