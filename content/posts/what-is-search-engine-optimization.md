@@ -11,6 +11,8 @@ url: what-is-search-engine-optimization
 date: 2021-05-26T17:23:35.501Z
 updateDate: 2021-05-26T17:23:35.535Z
 image: /uploads/what-is-search-engine-optimization.jpg
+categories:
+  - SEO
 ---
 When we perform a search, for example, in Google, we see a list of different results. Usually, we look at the first results. And if we want our business to appear in a good position, how do we get it? The answer is SEO. But the question is, **What is Search Engine Optimization?**
 
