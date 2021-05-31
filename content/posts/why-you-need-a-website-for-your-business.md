@@ -10,6 +10,8 @@ url: why-you-need-a-website-for-your-business
 date: 2021-05-31T17:25:57.919Z
 updateDate: 2021-05-31T17:25:57.973Z
 image: /uploads/why-you-need-a-website-for-your-business.jpg
+categories:
+  - Web Design
 ---
 There are many websites today for pretty much anything, from crowdfunding campaigns to fan pages for pet hamsters. Unfortunately, 30 to 40 percent of small businesses are hesitant to get online for some reason. What's the matter? 
 
