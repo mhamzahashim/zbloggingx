@@ -57,23 +57,24 @@ Before moving on to the article, Let’s take a look at some **popular skills o
 * Optimize campaigns for better conversion
 * Keyword Research for campaigns
 
-Services related to SEO are very in demend on freelance websites.
+Services related to SEO are very in demand on freelance websites.
 
-**Social Media Marketing**: Helps online businesses to more sales and customers by promoting their store or website on social media platforms like Facebook, Instagram, Snapchat, Pinterest and more. A strategy is a summary of how your store is planning to achieve its goals and improve its position in the market.
+**Social Media Marketing**: Helps online businesses to more sales and customers by promoting their store or website on social media platforms like Facebook, Instagram, Snapchat, Pinterest and more. A strategy is a summary of how your store is planning to achieve its goals and improve its position in the market. 
 
 ### **Services you can Provide in SMM:**
 
 * Profile setup and Optimization
 * Facebook Page and Ads Management
+* Getting organic **[Organic on Facebook](https://zblogging.com/how-to-increase-organic-reach-on-facebook/)**
 * Pinterest Account and Ads Management
 * Snapchat Page and Ads Management
 * Tiktok Account and Ads Management
 * Instagram Account and Ads Management
 * Twitter Account for Brand Awareness
 
-**Content Creation or Copywriting**: In content creation, you develop topic ideas that appeal to your audience, generate content around those ideas, then reach your audience through a blog, video, infographic, or other format.
+**Content Creation or Copywriting**: In content creation, you develop topic ideas that appeal to your audience, generate content around those ideas, then reach your audience through a blog, video, infographic, or another format.
 
-**Copywriting** is the practice of writing text for the purpose of marketing or advertisement. The copy, or selling copy, is the written content designed to promote a product or service by increasing brand awareness.
+**Copywriting** is the practice of writing the text for the purpose of marketing or advertisement. The copy, or selling copy, is the written content designed to promote a product or service by increasing brand awareness.
 
 ### **Services you can Provide in Content Creation or Copywriting:**
 
@@ -130,6 +131,7 @@ We are sure that you have been looking for the best freelance jobs that pay well
 
 {{% pros %}}
 
+
 Flexible working hours
 
 Freedom of work location
@@ -146,9 +148,11 @@ You are your own boss.
 
 Work on any skill you want
 
+
 {{% /pros %}}
 
 {{% cons %}}
+
 
 Inconsistency of work and payout
 
@@ -163,6 +167,7 @@ No leaves granted
 Isolation and lack of structure in work
 
 Bid wars
+
 
 {{% /cons %}}
 
