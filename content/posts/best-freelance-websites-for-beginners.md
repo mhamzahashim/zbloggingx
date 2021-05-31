@@ -262,9 +262,9 @@ This service helps freelancers connect with companies seeking top talent. Whethe
 
 Many beginners have questions in their minds before starting freelancing like which freelancing website is best, where to start etc. I have collected the most popular questions and will answer them based on my experience.
 
-{{% faq question="How to select the best Freelance Website?" %}}Try to find a freelance website that is more specific based on your skills rather than a general freelance website. Like 99designs which is specially created for graphics designers. It is good to research the freelance website from forums and people who are already working with that website.{{% /faq %}}
+{{% faq question="How to Select the Best Freelance Website?" %}}Try to find a freelance website that is more specific based on your skills rather than a general freelance website. Like 99designs which is specially created for graphics designers. It is good to research the freelance website from forums and people who are already working with that website.{{% /faq %}}
 
-{{% faq question="How to Benefit From Freelancing Platforms?" %}}In the first few months of your freelance career, you’ll find it helpful to remember a few things in order to avoid making common freelancer mistakes. Knowing freelance platforms can give you benefits.
+{{% faq question="How to Benefit from Freelancing Platforms?" %}}In the first few months of your freelance career, you’ll find it helpful to remember a few things in order to avoid making common freelancer mistakes. Knowing freelance platforms can give you benefits.
 
 The most significant of these is your ability to market your services. Many freelance professionals already use freelance platforms, but this isn’t true for newbies.\
 You will learn a lot of things after creating an account and the first thing is sending proposals to clients by doing the bidding.
@@ -274,11 +274,11 @@ Make sure to make no mistake in the beginning because if you did a mistake the a
 
 Never ask a client to give you a 5-star review. This is a common mistake that every beginner makes while doing freelancing even I did this in the beginning. Try to deliver the order before the due date. **Because time is money.**{{% /faq %}}
 
-{{% faq question="What are the best freelance websites for beginners?" %}}As I told you above that Fiverr and Upwork both are good platforms but for beginners, I would recommend starting your career from Fiverr. Because there you can get free 10 buying requests and if we consider Upwork we have to buy connects in order to send requests or proposal.{{% /faq %}}
+{{% faq question="What Are the Best Freelance Websites for Beginners?" %}}As I told you above that Fiverr and Upwork both are good platforms but for beginners, I would recommend starting your career from Fiverr. Because there you can get free 10 buying requests and if we consider Upwork we have to buy connects in order to send requests or proposal.{{% /faq %}}
 
-{{% faq question="Which is the best freelancing platform for web design?" %}}People Per Hour and Guru both are the best freelancing platform for beginners and they are especially for web designers. You can find a lot of projects related to web design on these two websites.{{% /faq %}}
+{{% faq question="Which Is the Best Freelancing Platform for Web Design?" %}}People Per Hour and Guru both are the best freelancing platform for beginners and they are especially for web designers. You can find a lot of projects related to web design on these two websites.{{% /faq %}}
 
-{{% faq question="Which skill should I learn for Freelancing?" %}}It depends on you, if you have a creative mind and love creativity then you can learn graphics designing and join 99designs freelancing job site. If you want to into the digital marketing field, then you can learn SEO and try on Upwork.{{% /faq %}}
+{{% faq question="Which Skill Should I Learn for Freelancing?" %}}It depends on you, if you have a creative mind and love creativity then you can learn graphics designing and join 99designs freelancing job site. If you want to into the digital marketing field, then you can learn SEO and try on Upwork.{{% /faq %}}
 
 **Conclusion**:
 
