@@ -53,14 +53,14 @@ Machine learning is studying algorithms and statistical models computer systems 
 The machine learning of today is very different from the machine learning of the past. It was born from pattern recognition and the idea that computers can learn without being programmed to perform specific tasks; IBM researchers wanted to see if machines could learn from data.
 
 * AI/ML skills demand positions including data scientist, machine learning engineer, and research analyst.
-* Top technology firms like **Google, Facebook, Amazon** have started investing significant amounts of money into the field of artificial intelligence.
+* Top technology firms like **Google, [Facebook](https://zblogging.com/how-to-increase-organic-reach-on-facebook/), Amazon** have started investing significant amounts of money into the field of artificial intelligence.
 * Professionals with AI/Machine Learning skills can command salaries that range from **$120K-$200K+** a year – depending on title and experience level (source: **[Payscale](https://www.payscale.com/research/US/Skill=Artificial_Intelligence_(AI)/Salary)**).
 
 But it's not easy to learn these skills, and both academic programs and online courses are only just starting to catch up with the demand for AI skills right now.
 
 In 2018, top universities like Stanford University, MIT, Harvard had an average of one course on machine learning per school.
 
-The best way to learn these advanced skills is by taking a Bootcamp – which offer condensed training in this field. A great example would be General Assembly's Machine Learning Foundations Bootcamp or their Data Science Career Track Bootcamp.
+The best way to learn these advanced skills is by taking a Bootcamp – which offers condensed training in this field. A great example would be General Assembly's Machine Learning Foundations Bootcamp or their Data Science Career Track Bootcamp.
 
 Both AI and MI are Top Tech Skills in Demand right now in 2021 that you can start learning.
 
