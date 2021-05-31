@@ -1,6 +1,6 @@
 logo = "/uploads/logo-of-zblogging.png"
 icon = "/uploads/zblogging-favicon.png"
-description = "Top Unbiased Kitchen Products Reviews & Buying Guides"
+description = "Learn Digital Marketing and Blogging"
 contacteMail = "hamzajaani143@gmail.com"
 
 [open_graph]
@@ -20,10 +20,12 @@ YandexVerify = ""
 [siteAuthor]
 name = "Hamza Hashim"
 avatar = ""
-bio = "This is Mark, I am a passionate blogger and love to review new products for daily use."
+bio = "Hamza Hashim the founder of zBlogging. He has appeared on BeingGuru, SEOblog, 4seohelp. Over 4 years of experience he has been doing blogging and SEO. He has helped a lot of businesses to get high visibility on search engines as well on social media platforms."
+authorFB = "https://facebook.com/mhamzahashim"
+authortwitter = "https://twitter.com/mhamza_hashim"
 
 [social_accounts]
-sitefbAccount = "https://www.facebook.com/reviewtek"
+sitefbAccount = ""
 sitetwitterAccount = ""
 siteinstagramAccount = ""
 sitepinterestAccount = ""
