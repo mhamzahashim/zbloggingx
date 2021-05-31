@@ -9,7 +9,7 @@ facebookPublisher = ""
 facebookAuthor = ""
 twitterPublisher = ""
 twitterAuthor = ""
-image = "/uploads/dsc_9208.png"
+image = ""
 
 [verifications]
 PinterestVerify = ""
@@ -19,7 +19,7 @@ YandexVerify = ""
 
 [siteAuthor]
 name = "Hamza Hashim"
-avatar = ""
+avatar = "/uploads/dsc_9208.png"
 bio = "Hamza Hashim the founder of zBlogging. He has appeared on BeingGuru, SEOblog, 4seohelp. Over 4 years of experience he has been doing blogging and SEO. He has helped a lot of businesses to get high visibility on search engines as well on social media platforms."
 authorFB = "https://facebook.com/mhamzahashim"
 authortwitter = "https://twitter.com/mhamza_hashim"
