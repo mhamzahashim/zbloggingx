@@ -1,6 +1,6 @@
 languageCode = "en-us"
 DisqusShortname = ""
-googleAnalytics = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-195382893-1\"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-195382893-1'); </script>"
+googleAnalytics = "UA-195382893-1"
 baseURL = "https://zblogging.com"
 title = "zBlogging"
 paginate = "20"
