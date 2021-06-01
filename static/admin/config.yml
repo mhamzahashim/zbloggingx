@@ -39,6 +39,7 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Publish Date", name: "date", widget: "hidden", default: "2021-04-27T08:20:22.528Z" }
       - {label: "Layout", name: "type", widget: "hidden", default: "page"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
       - {label: "SEO Title", name: "SEOTitle", widget: "string", required: false}
