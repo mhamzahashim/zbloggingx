@@ -71,7 +71,7 @@ Dofollow backlinks allow Google or whatever search engine is being used, to foll
 
 ### Nofollow Backlink:
 
-What is a nofollow backlink? Nofollow backlink does not pass the authority because the tag rel=” nofollow” in the HTML code of the website tells crawlers not to follow these backlinks. Google does not transfer the authority or anchor text across nofollow links.<!--StartFragment-->
+What is a nofollow backlink? Nofollow backlink does not pass the authority because the tag rel=” nofollow” in the HTML code of the website tells crawlers not to follow these backlinks. Google does not transfer the authority or anchor text across nofollow links.
 
 ### Error 404:
 
