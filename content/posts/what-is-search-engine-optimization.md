@@ -71,7 +71,9 @@ There are four types of SEO only.
 * **On-page SEO** refers to “all measures that can be taken directly within the website to improve its position in the search rankings. It is the practice of optimizing individual web pages to rank higher and earn more relevant traffic in search engines. It refers to both the content and HTML source code of a page that can be optimized.
 * **Off-page SEO** refers to indirect activities like generating backlinks that happen away from your website. It is also called **“off-site SEO”**, which refers to actions taken outside your website to impact your rankings within search engine results pages (SERPs).
 * **Technical SEO** is a method of improvements you can make to increase your chances of ranking in search. It includes improving your website speed, checking SSL, your domain preferred version and much more.
-* **Local SEO** practices can differ because the goal is to show up for searches that include phrases like “near me” or “in X area.” It is used to rank local businesses in a specific area only.
+* **Local SEO** practices can differ because the goal is to show up for searches that include phrases like “near me” or “in X area.” It is used to rank local businesses in a specific area only. 
+
+Explore more **[Important SEO Terminology to Know](https://zblogging.com/important-seo-terminology-to-know/)**
 
 ## Some Frequently Asked Questions about SEO
 
