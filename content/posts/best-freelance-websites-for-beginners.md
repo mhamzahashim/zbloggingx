@@ -24,13 +24,13 @@ Before moving on to the article, Let’s take a look at some **popular skills o
 
 ## Popular Skills on Freelancing Websites
 
-**Search Engine Optimization ([SEO](https://zblogging.com/what-is-search-engine-optimization/)**): It is a highly data-driven methodology of strategies and tactics, used to increase the number of visitors to a website by following the guidelines of search engines. In simple words, SEO is the way to rank your website on Google by following the guidelines of Google.
+**Search Engine Optimization ([SEO](https://zblogging.com/what-is-search-engine-optimization/)**) : It is a highly data-driven methodology of strategies and tactics, used to increase the number of visitors to a website by following the guidelines of search engines. In simple words, SEO is the way to rank your website on Google by following the guidelines of Google.
 
 ### **Services you can provide in SEO:**
 
 * On Page SEO
 * Off Page SEO (Link Building)
-* Technical SEO
+* Technical SEO is the **[Important SEO Terminology](https://zblogging.com/important-seo-terminology-to-know/)**
 * Keyword Research for Content
 * SEO Audit of a Website
 * Content Optimization
@@ -39,7 +39,7 @@ Before moving on to the article, Let’s take a look at some **popular skills o
 * Plugins Setup & Configuration
 * Conversion Rate Optimization for Landing Pages
 
-**Local SEO:** It refers to the process of ‘optimizing’ your online presence to attract more customers from local searches that take place on Google and other search engines.
+**Local SEO:** It refers to the process of ‘optimizing’ your online presence to attract more customers from local searches that take place on Google and other search engines. If you are learning SEO, don't forget **[website development for businesses.](https://zblogging.com/why-you-need-a-website-for-your-business/)**
 
 ### **Services you can provide in Local SEO:**
 
@@ -125,11 +125,12 @@ But there are two models of selling on Amazon, Private Label or Wholesale. Most 
 
 Above are some **popular freelancing skills** being offered by people as well as bought through freelancing sites. So let’s move back into our topic Best Freelancing Websites for Beginners.
 
-We are sure that you have been looking for the best freelance jobs that pay well, as well as other freelance work options to help you save money or pay the bills. We are going to share with you the best jobs sites to begin your online career.
+I'm are sure that you have been looking for the best freelance jobs that pay well, as well as other freelance work options to help you save money or pay the bills. We are going to share with you the best jobs sites to begin your online career.
 
 ## Pros and Cons of Freelancing
 
 {{% pros %}}
+
 
 
 Flexible working hours
@@ -149,9 +150,11 @@ You are your own boss.
 Work on any skill you want
 
 
+
 {{% /pros %}}
 
 {{% cons %}}
+
 
 
 Inconsistency of work and payout
@@ -167,6 +170,7 @@ No leaves granted
 Isolation and lack of structure in work
 
 Bid wars
+
 
 
 {{% /cons %}}
@@ -287,7 +291,7 @@ Never ask a client to give you a 5-star review. This is a common mistake that ev
 
 **Conclusion**:
 
-We have shown you the best freelance websites for beginners**.** So what are you waiting for now? Just learn any skill which you are passionate about and start your career on one of the above freelancing websites.
+So I have shown you the best freelance websites for beginners**.** So what are you waiting for now? Just learn any skill which you are passionate about and start your career on one of the above freelancing websites.
 
 You can learn any skill from Google or Youtube. Otherway are paid courses that you can watch on **Udemy** or **Skillshare**.
 
