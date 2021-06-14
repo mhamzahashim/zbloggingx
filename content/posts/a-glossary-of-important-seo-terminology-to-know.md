@@ -9,6 +9,7 @@ metaKeywords: Important SEO Terminology
 url: important-seo-terminology-to-know
 date: 2021-06-14T12:19:35.422Z
 updateDate: 2021-06-14T12:19:35.488Z
+image: /uploads/important-seo-terminology-to-know.jpg
 categories:
   - SEO
 ---
