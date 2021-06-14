@@ -13,7 +13,7 @@ image: /uploads/important-seo-terminology-to-know.jpg
 categories:
   - SEO
 ---
-Here you can find the most used terms in SEO and web marketing. I wanted to try to create an SEO dictionary that is a glossary with specific terms on [SEO](http://web.archive.org/web/20210119045532/https://zblogging.com/what-is-seo) and digital marketing.
+Here you can find the most used terms in SEO and web marketing. I wanted to try to create an SEO dictionary that is a glossary with specific terms on [SEO](https://zblogging.com/what-is-search-engine-optimization/) and digital marketing.
 
 For those who look for the first time in the world of blogging and online marketing, it is difficult to find one’s way among all the technical words that are taken continuously up in causes in blogs like this.
 
