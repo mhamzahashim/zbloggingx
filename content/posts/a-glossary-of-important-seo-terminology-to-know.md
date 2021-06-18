@@ -91,9 +91,29 @@ Bread crumbs serve as markers for webpages when being indexed by Google's spider
 
 **Broken Link:** A broken backlink is an incoming link pointing to an “[error 404](https://en.wikipedia.org/wiki/HTTP_404)“ page of a target website. In the same way you can find your competitors’ broken pages that have a lot of backlinks and use it for your broken link building strategy.
 
-### **CDN:**
+A link that leads to a 404 not found. Typically, a link becomes broken when:
 
-Content Delivery Network; a network of connected servers that allow faster transmission of content to users located in geographic areas far from the data center.
+* A website goes offline.
+* A webpage is removed without implementing a redirect.
+* The destination URL is changed without implementing a redirect.
+
+**Blogging:** Blogging is the fastest growing form of media. It provides a space to share your own thoughts and insights, while also being able to learn from other likeminded individuals.
+
+In today's world of social networking and online publishing, blogging has become one way for companies or organizations with limited budgets an opportunity to market themselves on-line in order reach their target audience cheaply without professional assistance - it can be as simple as posting essays about what you love best.
+
+**Cache:** Cache stores information like photos or videos so they don't have to be reloaded when you visit them again and it can also reduce load times by up to 50%. It is a technology which stores web content to reduce page-loading times.
+
+**Cached Page:** A cached page is a web page that has been saved by an internet user on their browser or search engine in order to allow the person access even when they are not connected. Search engines cache pages as well so people can still get them, no matter if there is something wrong with the website's server and it cannot be accessed at all.
+
+**CDN:** Content Delivery Network; a network of connected servers that allow faster transmission of content to users located in geographic areas far from the data center.
+
+**Canonical URL:** A canonical link element is an HTML element that helps webmasters prevent duplicate content issues in search engine optimization by specifying the “canonical” or “preferred” version of a web page. 
+
+**ccTLD:** A company based in the Pakistan would have a domain like this: www.example.co.pk, where they use ccTLDs to represent their country of origin
+
+A country-code top-level domain is required for any companies located outside the country who want to provide content or services on the Internet and it stands as an indicator that these are local sites with staff from either within just one particular region or many more than one other countries.
+
+**Click Bait:** 
 
 ### SSL Certificate:
 
@@ -204,9 +224,5 @@ An area of ​​SEO that deals with all the general site settings, which allow 
 ### SERP:
 
 Search Engine Result Page (search engine results page); the page showing the list of results obtained by performing a search in a search engine.
-
-### Canonical URL:
-
-A canonical link element is an HTML element that helps webmasters prevent duplicate content issues in search engine optimization by specifying the “canonical” or “preferred” version of a web page. It is described in RFC 6596, which went life in April 2012.
 
 So above are some of the most Important SEO Terminology to Know that SEO’s used in their field. If I miss something, please let me know, and I hope you will like it so please don’t forget to share it with others.
