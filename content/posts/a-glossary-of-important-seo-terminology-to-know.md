@@ -159,7 +159,11 @@ There are two types of competition:
 
 **Conversion Rate:** The conversion rate is calculated by dividing the number of conversions by the number of visitors. A conversion rate of 25% can be calculated if a site receives 200 visitors and 50 sales during a month. You can refer to a conversion as any desired action that you want your customers to take.
 
-**Conversion Rate Optimization (CRO):**
+**Conversion Rate Optimization (CRO):** Increasing the percentage of users who take a desired action on a website is known as conversion rate optimization (CRO). An action can include purchasing a product, adding it to the cart, signing up for a service, filling out a form, or clicking a link.
+
+**Correlation:** It is the extent of a connection between two or more elements. Because algorithms are black boxes, they are often used in SEO research to infer relationships between variables. Keep in mind, however, that correlation **≠** causation.
+
+**Crawl Budget:** The crawl budget is the number of pages Google will crawl on your site every day. There are some minor variations throughout the day, but overall, it is fairly stable. Your website might receive 6 crawls per day from Google, it might receive 5,000 crawls per day, even 4,000,000 crawls per day.
 
 ### SSL Certificate:
 
