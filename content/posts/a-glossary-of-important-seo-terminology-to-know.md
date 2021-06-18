@@ -113,15 +113,42 @@ In today's world of social networking and online publishing, blogging has become
 
 A country-code top-level domain is required for any companies located outside the country who want to provide content or services on the Internet and it stands as an indicator that these are local sites with staff from either within just one particular region or many more than one other countries.
 
-**Click Bait:** 
+**Click Bait:** Clickbait is a text or thumbnail link that attracts attention, enticing users to follow the given link and read what it has. The headlined content of these links are typically sensationalized and misleading for readers as they may not provide them with accurate information about its contents.
+
+**Click-Through Rate (CTR):** Click-through rate is the ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.
+
+**CMS:** A Content Management System is a system that manages the content on websites. You may have heard of platforms like WordPress, Joomla! or Drupal? These are all CMSs and this type of software gives us the ability to create any kind of website we want with relative ease.
+
+**Cloaking:** Cloaking is a search engine optimization technique in which the content presented to the spider and user are different. The websites present their most relevant information for ranking purposes, but when someone clicks on it they receive some other version of what was seen by Googlebot or another automated crawler.
+
+Cloaking is an SEO tactic that involves presenting two versions of your site - one optimized for spiders and bots (i.e., robots) like Google's webcrawlers with text-based navigation links as well as images, videos etc.; while others will show up more humanized representations without these elements so viewers can easily read through articles at their own speed.
+
+A **"Content Management System" (CMS)** is what allows you to do things such as edit your own site when it comes time for updating information, upload media files like images in order to make attractive posts, add blog entries about anything.
+
+**Co-Citation:** Co-citation, similar to Bibliographic Coupling, measures semantic similarity of documents based on citations. The co-citation of two documents is defined as their frequent citation by other documents.
+
+For instance, imagine Search Engine Journal and Search Engine Roundtable never linked to or mentioned each other. However, other websites and blogs would likely mention both SEJ and SER on lists of popular search engine news publications.
+
+**To see this in action, see: related:https://www.searchenginejournal.com/ search engine journal**
+
+**Spam Comments:** Comment spam is a term referencing a broad category of spambot or spammer postings which abuse web-based forms to post unsolicited advertisements as comments on forums, blogs, wikis and online guestbooks.
+
+**Competition:** 
+
+There are two types of competition:
+
+* **Direct Competitors:** One of the most important aspects for any company is to be proactive in marketing their product. A good way to do this is by targeting customers that have similar needs and wants as you, whether they're online or offline.
+* **SEO Competitors:** Companies that are competing in the same market might have different products or services, but they're all trying to attract and retain customers. The way this company measures success is by utilizing their expert SEO skills as well as engaging with potential consumers on a personal level.
+
+**Content:** The communication of information by means of words, images, videos, or sounds (or any combination thereof). The second most important ranking factor for Google (along with links). Content that is useful, informative, valuable, credible, unique, and engaging will be rewarded by search engines with better traffic and visibility.
+
+**Content is King:** It is often used by conference speakers and authors of SEO (and digital marketing) publications. According to this definition, "content is king" usually means that your business, online presence, or SEO success is dependent on your content.
+
+> This phrase actually dates back to a Bill Gates essay, “Content is King”, published January 3, 1996.
 
 ### SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
-
-### CMS:
-
-Content Management System; is a program that allows you to create websites without particular coding or programming knowledge. WordPress is a CMS and in my opinion, it is the best.
 
 ### Structured Data:
 
