@@ -146,6 +146,15 @@ There are two types of competition:
 
 > This phrase actually dates back to a Bill Gates essay, “Content is King”, published January 3, 1996.
 
+**Conversion:** On a website, when a user completes a desired action. The following are examples of conversions:
+
+* Completing a purchase.
+* Adding items to a shopping cart.
+* Completing a form (e.g., requesting a demo, registering for a webinar/event).
+* Downloading premium content (e.g., ebook, whitepaper).
+* Subscribing to an email newsletter.
+* Video views.
+
 ### SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
