@@ -17,7 +17,7 @@ Search engine optimization is a hot topic in the world of digital marketing. It 
 
 With search engine optimization becoming more and more competitive, it's essential to know what the different terms mean. Especially If you're a business owner, you know that SEO is an important part of running your website. That's why we've compiled this list of Important SEO Terminology to Know.
 
-Here you can find the most used terms in SEO and other related fields. For those who look for the first time in blogging and online marketing, it isn't easy to find one's way among all the technical words taken continuously up in causes in blogs like this.
+Here you can find the most used **[terms in SEO](https://zblogging.com/what-is-search-engine-optimization/)** and other related fields. For those who look for the first time in blogging and online marketing, it isn't easy to find one's way among all the technical words taken continuously up in causes in blogs like this.
 
 ### Important SEO Terminology to Know
 
@@ -37,25 +37,59 @@ A lot of people don't realize that algorithms exist in almost every facet our li
 
 * **Algorithm Update:** The search engine is constantly changing the signals of its algorithm in order to provide a more customized experience.
 * **Algorithm Refresh:** The search engine re-runs an existing algorithm using the exact same signals as last time.
-* **New Algorithm:** The search engine adds a new algorithm to improve search quality. For example: Google Panda, Google Penguin.
+* **New Algorithm:** The search engine is always looking for a way to improve the quality of their searches. Google has developed many new algorithms including Panda and Penguin, among others.
 
 **Anchor text:** *Anchor text* is the clickable *text* in a hyperlink. SEO best practices dictate that *anchor text* is relevant to the page you’re linking to, rather than generic version. The blue, underlined *anchor text* is the most common as it is the web standard, although it is possible to change the color and underlining through HTML code.
 
-**Alt attribute:** The alt attribute is the HTML attribute used in HTML and XHTML documents to specify alternative text that is to be rendered when the element to which it is applied cannot be rendered.
+**Alt attribute:** The alt attribute is the HTML attribute used in HTML and XHTML documents to specify alternative text that is to be rendered when the element to which it is applied cannot be rendered. Also known as: **Alt Text.**
 
 **Above the Fold:** The Page Layout Algorithm is an algorithm developed by Google in 2012 to penalize websites that feature too many ads. The idea behind the design was for users who scroll down a website, they should not be bombarded with numerous advertisements in succession.
 
 **AJAX:** Asynchronous JavaScript and XML is a type of programming that allows you to create dynamic webpages without having to reload. This means your webpage will change depending on the information sent from a server, which makes it more engaging for visitors.
 
+**Analytics:** The more you know about data, the better you will be at making decisions. Data is a tool that we can use to make educated guesses and predictions in order to take action for our future success.
 
+**Also see: [Google Analytics](https://analytics.google.com/analytics/web/)**
 
-### Backlinks:
+**Artificial Intelligence (AI):** Computer science refers to the technique of programming computers to perform tasks that require human intelligence. An AI computer system functions like a digital brain that learns instead of following a set of programmed rules (like an algorithm). AI is also capable of making and implementing decisions without human intervention.
 
-A backlink for a given web resource is a link from some other website to that web resource. A web resource may be a website, web page, or web directory. A backlink is a reference comparable to a citation. 
+**Authority:** The importance of a website to the search engine is not measured by keywords alone. Search engines look at other signals, such as how long you spend on it and whether or not others link back to your site for determining rankings.
 
-### Broken Link:
+## SEO Terminologies Starting with B
 
-A broken backlink is an incoming link pointing to an “[error 404](https://en.wikipedia.org/wiki/HTTP_404)“ page of a target website. In the same way you can find your competitors’ broken pages that have a lot of backlinks and use it for your broken link building strategy.
+**B2B:** Business-to-Business is a long process that involves more expensive products, and professional decision makers. You will need to be friendly with them during the buying cycle if you want your company to stand out from all of their other competitors.
+
+**B2C:** In B2C SEO, the buying cycle is typically shorter (though it still varies by industry), products and services are cheaper ($$$) than they are for business-to-business dealings. And consumers should be your audience.
+
+**Backlinks:** A backlink for a given web resource is a link from some other website to that web resource. A web resource may be a website, web page, or web directory. A backlink is a reference comparable to a citation.
+
+**Baidu:** Baidu, Inc. is a Chinese multinational technology company specializing in Internet-related services and products and artificial intelligence, headquartered in Beijing's Haidian District. It is one of the largest AI and Internet companies in the world.
+
+**Bing:** Microsoft Bing is a web search engine owned and operated by the company. The service is based on Microsoft's previous search engines: MSN Search, Windows Live Search and later Live Search. The company offers a variety of search products, including web, video, image, and map search.
+
+**Black Box:** The man sits in front of a complex computer program, one that is poorly understood. The inputs and outputs can be observed but there's no access to the process itself due to its confidential nature; he doesn't know how it works or what will happen if he changes something.
+
+For example, **Google’s algorithm** is a black box.
+
+**Black Hat SEO:** Black Hat SEO is the process of manipulating search engine results to rank a website higher than its competitors. It’s an unethical practice that can potentially lead to disastrous consequences for businesses if they don't take precautions against it. Black hat SEO consists of techniques designed with one goal: Google PageRank manipulation so your site ranks at or near the top spot in SERPS (search engine result pages). 
+
+**Blog:** In a publication, all the recent content will appear at the top of the list, sorted by date. Written by an individual or a group of contributors, the content reflects a person's or company's interests. Originally, blogs were called web logs or weblogs. The term was confusing due to the fact that "web log" can also refer to log files on a server. In order to avoid this confusion, the abbreviation "blog" was coined and became the standard term.
+
+**Bounce Rate:** Bounce rate is the percentage of people who view one page on your website and then leave without going to other pages. It's a statistic that can tell you if visitors are getting what they need from your site in just a single visit, or if potential customers might be confused about where to find certain information. 
+
+A high bounce rate may indicate an issue with either design or content quality while low rates could mean visitors have found everything they were looking for upfront; it all depends on how well you set up expectations before showing them anything else.
+
+**Bot:** An Internet bot, web robot, robot or simply bot, is a software application that runs automated tasks over the Internet. Typically, bots perform tasks that are simple and repetitive, much faster than a person could. 
+
+See: **Crawler, [Googlebot](https://developers.google.com/search/docs/advanced/crawling/googlebot)**
+
+**Branded Keyword:** Users who enter exact matches, or variations, of specific company or brand names. The following examples of branded keywords include "**zBlogging**", "SEJ", and "**[zBlogging.com](https://zblogging.com/)**".
+
+**Breadcrumbs:** Breadcrumbs are used by search engines to keep track of pages, so that they can rank the most relevant ones first and show them in order. Breadcrumbs allow people to retrace their steps through a website easily while also helping webmasters create navigational menus without having to worry about designing or coding any additional elements on each page for navigation purposes.
+
+Bread crumbs serve as markers for webpages when being indexed by Google's spiders; this allows us not only be able find where we've been but get back there with ease if need be as well.
+
+**Broken Link:** A broken backlink is an incoming link pointing to an “[error 404](https://en.wikipedia.org/wiki/HTTP_404)“ page of a target website. In the same way you can find your competitors’ broken pages that have a lot of backlinks and use it for your broken link building strategy.
 
 ### **CDN:**
 
