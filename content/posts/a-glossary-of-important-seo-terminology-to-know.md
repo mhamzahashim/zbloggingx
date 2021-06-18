@@ -101,6 +101,8 @@ A link that leads to a 404 not found. Typically, a link becomes broken when:
 
 In today's world of social networking and online publishing, blogging has become one way for companies or organizations with limited budgets an opportunity to market themselves on-line in order reach their target audience cheaply without professional assistance - it can be as simple as posting essays about what you love best.
 
+## SEO Terminologies Starting with C
+
 **Cache:** Cache stores information like photos or videos so they don't have to be reloaded when you visit them again and it can also reduce load times by up to 50%. It is a technology which stores web content to reduce page-loading times.
 
 **Cached Page:** A cached page is a web page that has been saved by an internet user on their browser or search engine in order to allow the person access even when they are not connected. Search engines cache pages as well so people can still get them, no matter if there is something wrong with the website's server and it cannot be accessed at all.
