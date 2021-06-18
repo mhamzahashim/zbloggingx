@@ -21,7 +21,7 @@ Here you can find the most used **[terms in SEO](https://zblogging.com/what-is-s
 
 ### Important SEO Terminology to Know
 
-More than 200 SEO terms are included in this glossary, which you will need to know in order to succeed in the SEO industry.Accelerated Mobile Pages:
+SEO terminology and jargon can seem like a foreign language, especially when you have no prior knowledge of it. More than 200 SEO terms are included in this glossary, which you will need to know in order to succeed in the SEO industry. This page is worth bookmarking for future use!
 
 ## SEO Terminologies Starting with A
 
@@ -49,7 +49,7 @@ A lot of people don't realize that algorithms exist in almost every facet our li
 
 **Analytics:** The more you know about data, the better you will be at making decisions. Data is a tool that we can use to make educated guesses and predictions in order to take action for our future success.
 
-**Also see: [Google Analytics](https://analytics.google.com/analytics/web/)**
+> **Also see: [Google Analytics](https://analytics.google.com/analytics/web/)**
 
 **Artificial Intelligence (AI):** Computer science refers to the technique of programming computers to perform tasks that require human intelligence. An AI computer system functions like a digital brain that learns instead of following a set of programmed rules (like an algorithm). AI is also capable of making and implementing decisions without human intervention.
 
@@ -69,7 +69,7 @@ A lot of people don't realize that algorithms exist in almost every facet our li
 
 **Black Box:** The man sits in front of a complex computer program, one that is poorly understood. The inputs and outputs can be observed but there's no access to the process itself due to its confidential nature; he doesn't know how it works or what will happen if he changes something.
 
-For example, **Google’s algorithm** is a black box.
+> For example, **Google’s algorithm** is a black box.
 
 **Black Hat SEO:** Black Hat SEO is the process of manipulating search engine results to rank a website higher than its competitors. It’s an unethical practice that can potentially lead to disastrous consequences for businesses if they don't take precautions against it. Black hat SEO consists of techniques designed with one goal: Google PageRank manipulation so your site ranks at or near the top spot in SERPS (search engine result pages). 
 
@@ -186,6 +186,23 @@ Customer journeys can vary greatly by business type and industry, but are typica
 
 > Awareness > Consideration > Decision > Retention
 
+## SEO Terminologies Starting with D
+
+**Data:** To make informed decisions about SEO strategies and tactics, you need all the hard data that represents real customers - who, what, where, when, why, and how.
+
+**Dead-End Page:** It is a webpage that links to no other webpages. So called because once you or your bot arrives on this page, there’s nowhere else for either of us to go but back the way we came from.
+
+**Deep Link:**
+
+* A link pointing to any webpage other than the homepage.
+* A link pointing to content within a mobile app.
+
+**De-index:** In Google's search engine results, specifically its search index, when a website or webpage is permanently or temporarily removed. The Search Console includes a Remove URL tool for voluntary cases; however, some websites may be de-indexed as punishment for violating Google's Webmaster Guidelines through manual action.
+
+> Also called: Delisting
+
+**Dofollow Backlink:** Dofollow backlinks allows Google or whatever search engine is being used, to follow them and reach your website. Basically, these are links that will pass on the SEO benefits of the website where it is built from the hyperlinked website. This will improve its ranking position significantly in search engines.
+
 
 
 ### SSL Certificate:
@@ -197,10 +214,6 @@ SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed f
 Structured data is coded using in-page markup on the page that the information applies to. The structured data on the page should describe the content of that page. 
 
 You should not create blank or empty pages just to hold structured data; nor should you add structured data about information that is not visible to the user, even if the information is accurate. For more technical and quality guidelines, see the [Structured data general guidelines](https://developers.google.com/search/docs/guides/sd-policies).
-
-### Dofollow Backlink:
-
-Dofollow backlinks allow Google or whatever search engine is being used, to follow them and reach your website. Basically, these are links that will pass on the SEO benefits of the website where it is built from the hyperlinked website. This will improve its ranking position significantly in search engines.
 
 ### Nofollow Backlink:
 
