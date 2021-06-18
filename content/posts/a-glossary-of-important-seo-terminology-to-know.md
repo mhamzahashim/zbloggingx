@@ -165,6 +165,29 @@ There are two types of competition:
 
 **Crawl Budget:** The crawl budget is the number of pages Google will crawl on your site every day. There are some minor variations throughout the day, but overall, it is fairly stable. Your website might receive 6 crawls per day from Google, it might receive 5,000 crawls per day, even 4,000,000 crawls per day.
 
+Recommended reading:
+
+* [What Crawl Budget Means for Googlebot](https://webmasters.googleblog.com/2017/01/what-crawl-budget-means-for-googlebot.html) (Google Webmaster Central)
+
+**Crawl Error:**
+
+* URLs that a search engine bot is unable to crawl.
+* URLs that return a status code error.
+
+**Crawler:** "Crawler" is a generic term for any program (such as a robot or spider) that is used to automatically discover and scan websites by following links from one webpage to another. Google's main crawler is called Googlebot. It is a program search engines use to crawl the web. Bots visit webpages to collect information and add or update a search engine’s index.
+
+**Crawling:** It is a method to track and gather URLs to prepare for indexing. By giving them a webpage as a starting point, they will trace all the valid links on those pages. As they go from link to. link, they bring back data about those web pages back to Google's servers.
+
+**CSS:** Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+**Customer Journey:**  Potential moments (or touchpoints) in which prospects are exposed to or engage with a brand. In each of these interactions, the prospect is ultimately persuaded, influenced, and converted to become a client, customer, or subscriber.
+
+Customer journeys can vary greatly by business type and industry, but are typically divided into four main stages:
+
+> Awareness > Consideration > Decision > Retention
+
+
+
 ### SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
