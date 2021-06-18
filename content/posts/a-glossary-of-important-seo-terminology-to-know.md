@@ -247,101 +247,101 @@ Customer journeys can vary greatly by business type and industry, but are typica
 
 **External Link:** External links are a hyperlinks that point at (target) any domain other than the domain the link exists on (source). External links have a greater impact on search engine rankings than internal links because they are valued by search engines as external votes of confidence/popularity in a web page.
 
-### SSL Certificate:
+SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
 
-### Structured Data:
+Structured Data:
 
 Structured data is coded using in-page markup on the page that the information applies to. The structured data on the page should describe the content of that page. 
 
 You should not create blank or empty pages just to hold structured data; nor should you add structured data about information that is not visible to the user, even if the information is accurate. For more technical and quality guidelines, see the [Structured data general guidelines](https://developers.google.com/search/docs/guides/sd-policies).
 
-### Nofollow Backlink:
+Nofollow Backlink:
 
 What is a nofollow backlink? Nofollow backlink does not pass the authority because the tag rel=” nofollow” in the HTML code of the website tells crawlers not to follow these backlinks. Google does not transfer the authority or anchor text across nofollow links.
 
-### User Experience:
+User Experience:
 
 User experience is a person’s emotions and attitudes about using a particular product, system or service. It includes the practical, experiential, affective, meaningful and valuable aspects of human-computer interaction and product ownership.
 
-### Featured snippet:
+Featured snippet:
 
 A featured snippet is a summary of an answer to a user’s query, which is displayed on top of Google search results. It’s extracted from a webpage and includes the page’s title and URL.
 
-### .Htaccess File:
+.Htaccess File:
 
 htaccess is a configuration file for use on web servers running the Apache Web Server software. htaccess files can be used to alter the configuration of the Apache Web Server software to enable/disable additional functionality and features that the Apache Web Server software has to offer.
 
-### H1, h2, h3 … h6 Headings:
+H1, h2, h3 … h6 Headings:
 
 HTML tags that identify the headings, ie titles, and subtitles. Their number indicates a hierarchical level: h1 is the highest, h2 immediately below and so on up to h6, which is the lowest.
 
-### Website Hosting :
+Website Hosting:
 
 A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or webpage to be viewed on the Internet. Websites are hosted or stored, on special computers called servers. The use of FTP lets you upload files from your local computer to your web server.
 
-### Indexing :
+Indexing:
 
 Indexing is a process where our server crawls through your website, fetches every page that it can find and stores a list of keywords that are found on your site in our database. These keywords are then used to find pages on your site when a user performs search operations.
 
-### Search intent :
+Search intent:
 
 Search intent, sometimes also known as keyword intent, is the ultimate goal of the person using a search engine. Since people look for, process, and use search results differently based on their ultimate goal, understanding and optimizing for search intent is hugely important for SEO (and digital marketing in general).
 
-### Internal Linking :
+Internal Linking:
 
 An internal link is a type of hyperlink on a webpage to another page or resource, such as an image or document, on the same website or domain. Hyperlinks are considered either “external” or “internal” depending on their target or destination.
 
-### Knowledge Graph:
+Knowledge Graph:
 
 The Knowledge Graph is a knowledge base used by Google and its services to enhance its search engine’s results with information gathered from a variety of sources. The information is presented to users in an infobox next to the search results.
 
-### Link juice:
+Link juice:
 
 Link juice is the term used in the SEO world to refer to the value or equity passed from one page or site to another. This value is passed through hyperlinks. Search engines see links as votes by other websites that your page is valuable and worth promoting.
 
-### Local SEO:
+Local SEO:
 
 Local SEO (Local Search Engine Optimization), sometimes referred to as local search engine marketing, is an incredibly effective way to market your local business online, as it helps businesses promote their products and services to local customers at the exact time they’re looking for them online.
 
-### Markup Schema:
+Markup Schema:
 
 Schema markup, also known as structured data, is the language of search engines, using a unique semantic vocabulary. It is code used to more clearly provide information to search engines in order to understand your content.
 
-### Meta Tag Description :
+Meta Tag Description:
 
 The meta description tag in HTML is the 160 character snippet used to summarize a web page’s content. Search engines sometimes use these snippets in search results to let visitors know what a page is about before they click on it.
 
-### Niche:
+Niche:
 
 A niche market is the subset of the market on which a specific product is focused. The market niche defines the product features aimed at satisfying specific market needs, as well as the price range, production quality and the demographics that it is intended to target. It is also a small market segment.
 
-### Website Optimization:
+Website Optimization:
 
 Search engine optimization (SEO), or website optimization, is the process of making changes to your website so that it will appear higher in search engine results pages (SERPS). … The more relevance the search engines determine your website has for a given search, the higher the website will rank.
 
-### Page Rank:
+Page Rank:
 
 PageRank is an algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages.
 
-### Redirect 301:
+Redirect 301:
 
 The HTTP response status code 301 Moved Permanently is used for permanent URL redirection, meaning current links or records using the URL that the response is received for should be updated. The new URL should be provided in the Location field included with the response.
 
-### Off-Page SEO:
+Off-Page SEO:
 
 “Off-page SEO” (also called “off-site SEO”) refers to actions taken outside of your own website to impact your rankings within search engine results pages (SERPs).
 
-### On-Page SEO:
+On-Page SEO:
 
 On-page SEO is the practice of optimizing individual web pages in order to rank higher and earn more relevant traffic in search engines. On-page refers to both the content and HTML source code of a page that can be optimized, as opposed to off-page SEO which refers to links and other external signals.
 
-### On-Site SEO:
+On-Site SEO:
 
 An area of ​​SEO that deals with all the general site settings, which allow better speed, performance, and security, as well as providing the basis for optimizing other more specific aspects as well.
 
-### SERP:
+SERP:
 
 Search Engine Result Page (search engine results page); the page showing the list of results obtained by performing a search in a search engine.
 
