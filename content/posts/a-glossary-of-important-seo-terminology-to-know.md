@@ -155,6 +155,10 @@ There are two types of competition:
 * Subscribing to an email newsletter.
 * Video views.
 
+**Conversion Rate:** The conversion rate is calculated by dividing the number of conversions by the number of visitors. A conversion rate of 25% can be calculated if a site receives 200 visitors and 50 sales during a month. You can refer to a conversion as any desired action that you want your customers to take.
+
+**Conversion Rate Optimization (CRO):**
+
 ### SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
