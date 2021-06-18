@@ -19,7 +19,7 @@ With search engine optimization becoming more and more competitive, it's essenti
 
 Here you can find the most used **[terms in SEO](https://zblogging.com/what-is-search-engine-optimization/)** and other related fields. For those who look for the first time in blogging and online marketing, it isn't easy to find one's way among all the technical words taken continuously up in causes in blogs like this.
 
-### Important SEO Terminology to Know
+## Important SEO Terminology to Know
 
 SEO terminology and jargon can seem like a foreign language, especially when you have no prior knowledge of it. More than 200 SEO terms are included in this glossary, which you will need to know in order to succeed in the SEO industry. This page is worth bookmarking for future use!
 
@@ -201,7 +201,27 @@ Customer journeys can vary greatly by business type and industry, but are typica
 
 > Also called: Delisting
 
+**Directory:** This is a list of websites, usually broken down by relevant categories and maintained by humans. It is possible for inclusion to be free or to be paid for a directory. In the past, links from directories (e.g., DMOZ) were highly desired, leading to widespread abuse and a devaluing of this type of link building.
+
+> Also known as: Web Directory, Link Directory
+
+**Disavow:** If your link profile includes a high number of spammy, artificial, or low-quality inbound links that may be harming your rankings – and don’t have the ability to get them removed for a legitimate reason (e.g., the link exists on a site you have no control over) – you can use Google’s Disavow Tool tool to tell Google to ignore those links.
+
 **Dofollow Backlink:** Dofollow backlinks allows Google or whatever search engine is being used, to follow them and reach your website. Basically, these are links that will pass on the SEO benefits of the website where it is built from the hyperlinked website. This will improve its ranking position significantly in search engines.
+
+**Domain:** A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the Internet. Domain names are used in various networking contexts and for application-specific naming and addressing purposes. A website address typically ending in an extension like .com, .org, or .net. 
+
+> For example: www.zblogging.com is the domain of this website.
+
+**Domain Authority:** A domain authority score describes the relevance of a website for a particular subject area or industry. Search engine ranking is determined by domain authority, a rating developed by Moz. Through automated analysis algorithms, search engines evaluate domain authority and determine the ranking of the website based on its relevance.
+
+**Doorway Page:** Websites designed for the purpose of manipulating search engine indexes are called 'doorway pages'. Search engines index doorway pages as they add results for particular terms whilst redirecting visitors to a different page.
+
+**Duplicate Content:** When a significant amount of content located on one webpage matches, or is incredibly similar to, content found elsewhere on the same website or on a different website.
+
+**Dwell Time:** The amount of time that elapses between when a user clicks on a search result and then returns to the SERP from a website. Short dwell time (e.g., less than 5 seconds) can be an indicator of low-quality content to search engines.
+
+## SEO Terminologies Starting with E
 
 
 
