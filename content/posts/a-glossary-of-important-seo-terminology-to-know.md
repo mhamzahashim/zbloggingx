@@ -13,31 +13,41 @@ image: /uploads/important-seo-terminology-to-know.jpg
 categories:
   - SEO
 ---
-Here you can find the most used terms in SEO and web marketing. I wanted to try to create an SEO dictionary that is a glossary with specific terms on [SEO](https://zblogging.com/what-is-search-engine-optimization/) and digital marketing.
+Search engine optimization is a hot topic in the world of digital marketing. It doesn't matter if you're new to SEO or an expert; there's always something new to learn about this vast and ever-changing field. Essential Search Engine Optimization terminology can be hard to keep on top of with all of the different techniques being developed and updated constantly.
 
-For those who look for the first time in the world of blogging and online marketing, it is difficult to find one’s way among all the technical words that are taken continuously up in causes in blogs like this.
+With search engine optimization becoming more and more competitive, it's essential to know what the different terms mean. Especially If you're a business owner, you know that SEO is an important part of running your website. That's why we've compiled this list of Important SEO Terminology to Know.
+
+Here you can find the most used terms in SEO and other related fields. For those who look for the first time in blogging and online marketing, it isn't easy to find one's way among all the technical words taken continuously up in causes in blogs like this.
 
 ### Important SEO Terminology to Know
 
-Following is the list of Glossary of the Most Popular SEO Terms.
+More than 200 SEO terms are included in this glossary, which you will need to know in order to succeed in the SEO industry.Accelerated Mobile Pages:
 
-### Accelerated Mobile Pages:
+## SEO Terminologies Starting with A
 
-AMP is an online publishing format developed by Google as a competitor to Facebook’s Instant Articles. It is similar to HTML and is optimized for mobile web browsing. Using unique code, AMP-HTML is intended to help webpages load rapidly when clicked in the Google search results pages, though results have varied.
+**AMP:** AMP is an online publishing format developed by Google as a competitor to Facebook’s Instant Articles. It is similar to HTML and is optimized for mobile web browsing. Using unique code, AMP-HTML is intended to help webpages load rapidly when clicked in the Google search results pages, though results have varied.
 
-### Algorithm:
+**Algorithm:** An algorithm (**pronounced AL-go-rith-um**) is a procedure or formula for solving a problem, based on conducting a sequence of specified actions. A computer program can be viewed as an elaborate algorithm. 
 
-An algorithm (pronounced AL-go-rith-um) is a procedure or formula for solving a problem, based on conducting a sequence of specified actions. A computer program can be viewed as an elaborate algorithm. In mathematics and computer science, an algorithm usually means a small procedure that solves a recurrent problem.
+In mathematics and computer science, an algorithm usually means a small procedure that solves a recurrent problem. It determines the rules that define the positioning of a page within the search results. There are a lot of Algorithms in Google’s.
 
-It determines the rules that define the positioning of a page within the search results. There are a lot of Algorithms in Google’s.
+**Algorithm Change:** Algorithmic changes are often unnoticed, but the impact of a major algorithmic change can usually be seen quite quickly. Though it sometimes takes weeks for an algorithm to completely roll out across all platforms 
 
-### Anchor text:
+A lot of people don't realize that algorithms exist in almost every facet our lives and we're constantly being influenced by them without even realizing it.  There's so much more research needed on these silent power influencers because they might have some unintended consequences we haven't considered yet. Algorithmic changes come in three forms:
 
-*Anchor text* is the clickable *text* in a hyperlink. SEO best practices dictate that *anchor text* is relevant to the page you’re linking to, rather than generic version. The blue, underlined *anchor text* is the most common as it is the web standard, although it is possible to change the color and underlining through HTML code.
+* **Algorithm Update:** The search engine is constantly changing the signals of its algorithm in order to provide a more customized experience.
+* **Algorithm Refresh:** The search engine re-runs an existing algorithm using the exact same signals as last time.
+* **New Algorithm:** The search engine adds a new algorithm to improve search quality. For example: Google Panda, Google Penguin.
 
-### Alt attribute:
+**Anchor text:** *Anchor text* is the clickable *text* in a hyperlink. SEO best practices dictate that *anchor text* is relevant to the page you’re linking to, rather than generic version. The blue, underlined *anchor text* is the most common as it is the web standard, although it is possible to change the color and underlining through HTML code.
 
-The alt attribute is the HTML attribute used in HTML and XHTML documents to specify alternative text that is to be rendered when the element to which it is applied cannot be rendered.
+**Alt attribute:** The alt attribute is the HTML attribute used in HTML and XHTML documents to specify alternative text that is to be rendered when the element to which it is applied cannot be rendered.
+
+**Above the Fold:** The Page Layout Algorithm is an algorithm developed by Google in 2012 to penalize websites that feature too many ads. The idea behind the design was for users who scroll down a website, they should not be bombarded with numerous advertisements in succession.
+
+**AJAX:** Asynchronous JavaScript and XML is a type of programming that allows you to create dynamic webpages without having to reload. This means your webpage will change depending on the information sent from a server, which makes it more engaging for visitors.
+
+
 
 ### Backlinks:
 
