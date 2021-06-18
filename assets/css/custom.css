@@ -619,3 +619,61 @@ a#togglebutton:hover{
       margin: 0 .25em
   }
 }
+.ez-portfolio{
+  background-color:#254203;
+  font-family: Arial, Helvetica, sans-serif !important;
+
+}
+.ez-portfolio .branding{
+  color:white;
+  font-size:33px;
+  letter-spacing: -2px;
+  text-align: left;
+  font-weight: bolder;
+  margin-bottom: 0.8em;
+  word-spacing: -3px;
+}
+.ez-portfolio .author{
+  margin-top:50px !important;
+}
+.ez-portfolio .author img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin:auto;
+  border:2px solid #bfe31d;
+  outline: 2px solid black;
+  outline-offset: -5px;
+}
+.ez-portfolio .author::before{
+  content: "";
+  position: absolute;
+  margin: -21px 25px;
+  width: 80px;
+  height: 80px;
+  background-image: url(/dotted-background.png);
+  background-size: contain;
+  filter: invert(1);
+  z-index: 0;
+}
+.ez-portfolio .caption{
+  color:white;
+  font-size:33px;
+  letter-spacing: -2px;
+  text-align: left;
+  font-weight: bolder;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  width: 80%;
+}
+.ez-portfolio .hire-button{
+  display: block;
+  background-color: #bfe31d;
+  color:#254203;
+  font-size: 25px;
+  font-weight: bolder;
+  padding: 5px 30px;
+  width: 80%;
+  margin:auto;
+  border-radius: 8px;
+}
