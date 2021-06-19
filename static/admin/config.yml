@@ -32,6 +32,21 @@ collections:
       - {label: "Schema Markup", name: "schemaMarkup", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
+#Pages Collection
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: false}
+      - {label: "Layout", name: "type", widget: "hidden", default: "pages"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: false}
+      - {label: "SEO Discription", name: "excrept", widget: "text", required: false}
+      - {label: "Slug", name: "url", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
 #Categories Collection
   - name: categories
     label: Categories
