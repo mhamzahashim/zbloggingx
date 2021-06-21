@@ -247,7 +247,59 @@ Customer journeys can vary greatly by business type and industry, but are typica
 
 **External Link:** External links are a hyperlinks that point at (target) any domain other than the domain the link exists on (source). External links have a greater impact on search engine rankings than internal links because they are valued by search engines as external votes of confidence/popularity in a web page.
 
-SSL Certificate:
+## SEO Terminologies Starting with F
+
+**Featured snippet:** A featured snippet is a summary of an answer to a user’s query, which is displayed on top of Google search results. An explanation will appear here (often in the form of a paragraph, list, table, or video), along with the publication date, page title, link to the source website, and URL.
+
+> Also known as: Position Zero
+
+**Findability:** It is the ability to easily the content on a website that can be discovered, both internally (by users) and externally (by search engines).
+
+**Footer Links:** Links that appear in the bottom section (or “footer) of a website.
+
+## SEO Terminologies Starting with G
+
+**Google:** Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the big four Internet stocks along with Amazon, Facebook, and Apple.
+
+**Google Analytics:** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic, currently as a platform inside the Google Marketing Platform brand. Google launched the service in November 2005 after acquiring Urchin.
+
+**Google Bomb:** The terms Google bombing and Googlewashing refer to the practice of causing a website to rank highly in web search engine results for irrelevant, unrelated or off-topic search terms by linking heavily. This was accomplished by having a large number of websites link to a certain webpage with specific anchor text to help it rank for that term.
+
+> For example, in 2003 President George W. Bush’s White House bio ranked number one on a search for “miserable failure.”
+
+**Googlebot:** Googlebot is the web crawler software used by Google, which collects documents from the web to build a searchable index for the Google Search engine. This name is actually used to refer to two different types of web crawlers: a desktop crawler and a mobile crawler.
+
+**Google Dance:** A term used starting in 2002 for the volatile period of time during which Google updated its search index, roughly every month.
+
+**Google Hummingbird:** Hummingbird is the codename given to a significant algorithm change in Google Search in 2013. Its name was derived from the speed and accuracy of the hummingbird. The change was announced on September 26, 2013, having already been in use for a month.
+
+**Google Panda Algorithm:** Google Panda is a major change to Google's search results ranking algorithm that was first released in February 2011. The change aimed to lower the rank of "low-quality sites" or "thin sites", in particular "content farms", and return higher-quality sites near the top of the search results.
+
+**Google Penguin Algorithm:** Initially released by Google on April 22, 2012, the algorithm has since been updated and refreshed several times. Its goal was to limit the visibility of overly-optimized sites, or sites that overused certain spammy tactics (for example, building low-quality links and keyword stuffing). Penguin was incorporated into Google's core algorithms in 2016 as part of running in real-time.
+
+**Google Pigeon Update:** Google Pigeon is the code name given to one of Google's local search algorithm updates. This update was released on July 24, 2014. The update is aimed to increase the ranking of local listing in a search. The changes will also affect the search results shown in Google Maps along with the regular Google search results.
+
+**Google RankBrain:** In October 2015, Google officially introduced a major algorithm change, although it had been tested for months before that. RankBrain was one of Google's most important ranking signals after human and machine learning. It was revealed in June 2016 that RankBrain is involved in every query and has an impact on search engine rankings.
+
+**Google Sandbox:** The Sandbox effect is a name given to an observation of the way Google ranks web pages in its index. It is the subject of much debate—its existence has been written about since 2004 but not confirmed, with several statements to the contrary.
+
+**Google Search Console:** Google Search Console is a web service by Google which allows webmasters to check indexing status and optimize visibility of their websites. Until 20 May 2015, the service was called Google Webmaster Tools. In January 2018, Google introduced a new version of the search console, with changes to the user interface.
+
+**Google Trends:** Google Trends is a website by Google that analyzes the popularity of top search queries in Google Search across various regions and languages. The website uses graphs to compare the search volume of different queries over time.
+
+**Google Webmaster Guidelines:** Webmaster guidelines are guidelines that are set out by search engine providers such as Google or Bing. These regulations provide webmasters with guidance on how websites can be optimized so that they are optimally found by search engines.
+
+> [Learn Webmaster Guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)
+
+**Guest Blogging:** "Guest blogging," also known as "guest posting," is the act of writing for another company's website. A guest blogger for a similar blog in their industry generally works in the following way: Attract traffic to their own website. Linking to high-authority domains will increase their domain authority.
+
+## SEO Terminologies Starting with H
+
+**.Htaccess File:** htaccess is a configuration file for use on web servers running the Apache Web Server software. htaccess files can be used to alter the configuration of the Apache Web Server software to enable/disable additional functionality and features that the Apache Web Server software has to offer.
+
+**H1 to H6 Headings:** HTML tags that identify the headings, ie titles, and subtitles. Their number indicates a hierarchical level: h1 is the highest, h2 immediately below and so on up to h6, which is the lowest.
+
+[](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
 
@@ -264,18 +316,6 @@ What is a nofollow backlink? Nofollow backlink does not pass the authority be
 User Experience:
 
 User experience is a person’s emotions and attitudes about using a particular product, system or service. It includes the practical, experiential, affective, meaningful and valuable aspects of human-computer interaction and product ownership.
-
-Featured snippet:
-
-A featured snippet is a summary of an answer to a user’s query, which is displayed on top of Google search results. It’s extracted from a webpage and includes the page’s title and URL.
-
-.Htaccess File:
-
-htaccess is a configuration file for use on web servers running the Apache Web Server software. htaccess files can be used to alter the configuration of the Apache Web Server software to enable/disable additional functionality and features that the Apache Web Server software has to offer.
-
-H1, h2, h3 … h6 Headings:
-
-HTML tags that identify the headings, ie titles, and subtitles. Their number indicates a hierarchical level: h1 is the highest, h2 immediately below and so on up to h6, which is the lowest.
 
 Website Hosting:
 
