@@ -281,6 +281,8 @@ Customer journeys can vary greatly by business type and industry, but are typica
 
 **Google RankBrain:** In October 2015, Google officially introduced a major algorithm change, although it had been tested for months before that. RankBrain was one of Google's most important ranking signals after human and machine learning. It was revealed in June 2016 that RankBrain is involved in every query and has an impact on search engine rankings.
 
+**Google Page Rank:** PageRank is an algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages.
+
 **Google Sandbox:** The Sandbox effect is a name given to an observation of the way Google ranks web pages in its index. It is the subject of much debate—its existence has been written about since 2004 but not confirmed, with several statements to the contrary.
 
 **Google Search Console:** Google Search Console is a web service by Google which allows webmasters to check indexing status and optimize visibility of their websites. Until 20 May 2015, the service was called Google Webmaster Tools. In January 2018, Google introduced a new version of the search console, with changes to the user interface.
@@ -360,10 +362,6 @@ A niche market is the subset of the market on which a specific product is focuse
 Website Optimization:
 
 Search engine optimization (SEO), or website optimization, is the process of making changes to your website so that it will appear higher in search engine results pages (SERPS). … The more relevance the search engines determine your website has for a given search, the higher the website will rank.
-
-Page Rank:
-
-PageRank is an algorithm used by Google Search to rank web pages in their search engine results. PageRank was named after Larry Page, one of the founders of Google. PageRank is a way of measuring the importance of website pages.
 
 Redirect 301:
 
