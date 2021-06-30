@@ -1,5 +1,5 @@
 {{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) }}
-    {{ range $index, $element := where $paginator.Pages "Type" "ne" "page" }}
+    {{ range $index, $element := where $paginator.Pages "Type" "Not in" "pages" }}
 
         <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l c-post-card-wrap js-post-card-wrap
         {{ if (eq $index 0) }}o-grid__col--4-4-m o-grid__col--2-3-l
