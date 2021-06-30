@@ -5,7 +5,7 @@ backend:
 site_url: https://zblogging.com
 
 media_folder: "static/uploads"
-public_folder: "{{fields.url}}/uploads/"
+public_folder: "/{{collections.fields.url}}/uploads/"
 
 
 collections:
