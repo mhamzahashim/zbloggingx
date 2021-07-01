@@ -301,6 +301,38 @@ Customer journeys can vary greatly by business type and industry, but are typica
 
 **H1 to H6 Headings:** HTML tags that identify the headings, ie titles, and subtitles. Their number indicates a hierarchical level: h1 is the highest, h2 immediately below and so on up to h6, which is the lowest.
 
+**Head Term:** A keyword with high search volume that is usually difficult to rank for on Google because of high competiton.
+
+> Also known as: Head Keyword, Short-Tail
+
+**Hidden Text:** Any text that can’t be seen by a user that is intended to manipulate search rankings by loading webpages with content-rich keywords and copy. This technique is against **Google’s Webmaster Guidelines** and can result in a manual action. 
+
+For example, adding text that is:
+
+1. Too small to read
+2. The same color as the background
+3. Using CSS to push the text off-screen
+
+**Hilltop Algorithm:** HITS is an algorithm developed by Google in 2003 that assigns an "expert" status to websites or webpages that have links to unaffiliated websites on the same topic as the webpage.
+
+**HITS Algorithm:** A Hyperlink-Induced Topic Search is a link analysis algorithm that assesses a website's value not just by its content or inbound links (authorities), but also by its outbound links (hubs).
+
+**HomePage:** The default, or introductory webpage, of a website.
+
+**HTML:** HTM stands for Hypertext Markup Language. For web pages and websites, HTML tags are specific code elements that can be used to improve SEO.
+
+**HTTP:** The Hypertext Transfer Protocol is how data is transferred from a computer server to a web browser.
+
+**HTTPS:** Hypertext Transfer Protocol Secure uses a Secure Sockets Layer (SSL) to encrypt data transferred between a website and web browser. HTTPS is a minor Google ranking factor.
+
+**Hub Page:** A central authority (e.g., a page or article), dedicated to a specific topic (keyword), that is continuously updated and linked to, and that also refers to other topically-relevant web pages.
+
+## SEO Terminologies Starting with I
+
+**Indexing:** It is a process where our server crawls through your website, fetches every page that it can find and stores a list of keywords that are found on your site in our database. These keywords are then used to find pages on your site when a user performs search operations.
+
+**Internal Linking:** An internal link is a type of hyperlink on a webpage to another page or resource, such as an image or document, on the same website or domain. Hyperlinks are considered either “external” or “internal” depending on their target or destination.
+
 [](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
@@ -323,17 +355,9 @@ Website Hosting:
 
 A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or webpage to be viewed on the Internet. Websites are hosted or stored, on special computers called servers. The use of FTP lets you upload files from your local computer to your web server.
 
-Indexing:
-
-Indexing is a process where our server crawls through your website, fetches every page that it can find and stores a list of keywords that are found on your site in our database. These keywords are then used to find pages on your site when a user performs search operations.
-
 Search intent:
 
 Search intent, sometimes also known as keyword intent, is the ultimate goal of the person using a search engine. Since people look for, process, and use search results differently based on their ultimate goal, understanding and optimizing for search intent is hugely important for SEO (and digital marketing in general).
-
-Internal Linking:
-
-An internal link is a type of hyperlink on a webpage to another page or resource, such as an image or document, on the same website or domain. Hyperlinks are considered either “external” or “internal” depending on their target or destination.
 
 Knowledge Graph:
 
