@@ -2,8 +2,8 @@
 title: Best Freelance Websites for Beginners
 type: post
 draft: false
-SEOTitle: Best Freelance Websites for Beginners | zBlogging
-excrept: The following are the top 15 freelance websites for beginners. If
+SEOTitle: 14 Best Freelance Websites for Beginners | zBlogging
+excrept: The following are the top 14 freelance websites for beginners. If
   you're just  getting started, be sure to look at these sites and get started
   making money today.
 metaKeywords: Best Freelance Websites for Beginners
