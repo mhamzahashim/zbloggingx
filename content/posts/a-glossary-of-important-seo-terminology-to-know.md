@@ -333,6 +333,49 @@ For example, adding text that is:
 
 **Internal Linking:** An internal link is a type of hyperlink on a webpage to another page or resource, such as an image or document, on the same website or domain. Hyperlinks are considered either “external” or “internal” depending on their target or destination.
 
+**Inbound Link:** An inbound link is a link coming from another site to your own website. "Inbound" is generally used by the person receiving the link.
+
+**Index:**  The database search engines use to store and retrieve information gathered during the crawling process.
+
+**Indexability:** How easily a search engine bot can understand and add a webpage to its index.
+
+**Indexed Page:** A webpage that has been discovered by a crawler, has been added to a search engine index, and is eligible to appear in search results for relevant queries.
+
+**Information Architecture:** How a website is organized and where various content and navigational elements are located on webpages.
+
+**Information Retrieval:** The process of searching for information (e.g., text, images, video) from a large database and then presenting the most relevant information to an end user.
+
+**IP Address:** An Internet Protocol Address. IP addresses can be:
+
+* Shared: Numerous websites share an address within one server or a group of servers (a.k.a., virtual hosting).
+* Dedicated: A website has its own address.
+
+Neither will help you rank better; however, a dedicated IP address can increase site speed.
+
+## SEO Terminologies Starting with J
+
+**JavaScript (JS):** A programming language that makes it possible to dynamically insert content, links, meta data, or other elements, on websites. JavaScript can potentially make it difficult for search engine bots to crawl and index webpages and increase the time it takes for webpage to load for users.
+
+## SEO Terminologies Starting with K
+
+**Keyword:** The word, words, or phrase that an SEO professional or marketer targets for the purpose of matching and ranking for what users are searching for. The words used on webpages can help search engines determine which pages are the most relevant to show in organic results when a searcher enters a query. Keywords usually represent topics, ideas, or questions.
+
+> **Also known as: Keyphrase**
+
+**Keyword Cannibalization:** A type of self-competition that occurs when multiple pages from one website rank for the same query on a SERP. This can result in a lower CTR, diminished authority, and lower conversion rates than from having one consolidated webpage that ranks well.
+
+**Keyword Density:** How often a word or phrase appears within the content of a webpage. At best, this unproven concept is outdated, if ever really mattered to search engines. There is no ideal percentage that will help a webpage rank better.
+
+**Keyword Research:** The process of discovering any relevant topics, subjects, and terms searchers enter into search engines, as well as the volume and competition level of those terms. This practice is made possible by a variety of free and paid tools.
+
+**Keyword Stuffing:** Adding irrelevant keywords, or repeating keywords beyond what is natural, to a webpage in the hopes of increasing search rankings. This spam tactic is against Google’s Webmaster Guidelines and can result in a manual action.
+
+**Knowledge Graph:** An entity database Google uses to surface facts and information on people, places, and things (a.k.a., entities) – and their connections – in a Knowledge Panel or carousel at the top of search results on relevant queries.
+
+**Knowledge Panel:** A box that appears at the top of, or on the right rail (desktop only), of Page 1 of Google’s search results for relevant queries. This panel contains facts and information on people, places, and things, as well as links to related websites or Google searches.
+
+**KPI:** Stands for key performance indicator. A measurement method businesses use to gauge whether marketing and business objectives, targets, and goals are being reached.
+
 [](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines)SSL Certificate:
 
 SSL. Stands for “Secure Sockets Layer.” SSL is a secure protocol developed for sending information securely over the Internet. Many websites use SSL for secure areas of their sites, such as user account pages and online checkout. Usually, when you are asked to “log in” on a website, the resulting page is secured by SSL.
