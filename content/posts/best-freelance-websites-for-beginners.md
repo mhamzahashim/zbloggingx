@@ -18,7 +18,7 @@ Everybody wants to earn online money with short tricks like copy-paste works, us
 
 If you’re new or a beginner like you have learned something new and want to convert your skills into a money-making machine by sitting at home, then freelance platforms are an easier way to make money online.
 
-You can browse through these platforms easily, finding jobs that match your skills. The freelancing websites make it much easier to earn money online for someone who has never done so before.
+You can browse through these platforms easily, finding jobs that match your skills. The freelancing websites make it much easier to earn money online from home for someone who has never done so before.
 
 Before moving on to the article, Let’s take a look at some **popular skills on Freelancing Websites**.
 
@@ -133,6 +133,7 @@ I'm are sure that you have been looking for the best freelance jobs that pay wel
 
 
 
+
 Flexible working hours
 
 Freedom of work location
@@ -151,9 +152,11 @@ Work on any skill you want
 
 
 
+
 {{% /pros %}}
 
 {{% cons %}}
+
 
 
 
@@ -170,6 +173,7 @@ No leaves granted
 Isolation and lack of structure in work
 
 Bid wars
+
 
 
 
