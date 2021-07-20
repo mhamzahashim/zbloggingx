@@ -239,7 +239,11 @@ As the leading marketplace for freelance talent in the UK, PeoplePerHour holds a
 
 ### **99Designs**:
 
-This freelancing platform is popular for the flexibility and global reach it provides to professionals. If you are a graphics designer with great skills, the platform is a great place for you to try it out.
+99Designs is another great when it comes to finding freelance work online. If you're a designer and know how to create custom graphics, logos, brand identity systems, websites, or other creative designs, this is the place. It's another large site that's been around for many years now, so it has thousands of potential employers looking for designers at any given time.
+
+99Designs gives you the option of creating your profile completely free. Still, there's also a premium membership that gives you more features when posting jobs, including higher visibility on the site to be viewed by more clients and the ability to pay less commission, if any at all. Most companies will pay between $100 – $500+ per design they're looking to have created, so there is plenty of opportunities to make money with this site.
+
+You'll be able to post jobs, sign up for extra opportunities such as judging contests and competitions, or becoming an affiliate. You can also submit your portfolio so potential employers can view all of the work you've done in the past. 
 
 With a huge customer base, 99Designs can help you find a project as the system is backed by a significant business community that thrives on growth. This freelancing platform is best especially for graphics designers only.
 
@@ -269,7 +273,7 @@ This platform lets users get paid not only by the hour or the task, but also bas
 
 It is a community-driven top freelance marketplace. It is a small growing freelance site where you can start right now because they also have a community on Facebook with over 50K+ members where you can share the link of your services to promote them for free.
 
-**Freelancer**:
+### **Freelancer**:
 
 Freelancer is another large freelancing platform where people like you and myself can find jobs online. It's been around for years and has helped millions of people make money in their free time working on various projects from web design to video editing, graphics designing, writing, programming, and more. 
 
@@ -281,13 +285,13 @@ Freelancer is an ideal platform for anyone who wants to get started with freelan
 
 Individual freelancers and employers can submit profiles to the site in response to work offered, won, and completed and the reviews they receive from people they work with or for. The site’s members receive a limited number of bids, which are periodically replaced. A range of paid accounts are available, ranging from free to professional.
 
-**Workana**:
+### **Workana**:
 
 Hire top freelancers: developers, web designers, writers, and all kinds of experts, and find freelance jobs on Workana, the leading freelance marketplace. The best place to find and hire expert freelancers.
 
 You can build a freelance career from where you stand and reach out to hundreds of clients! Make a living out of your passion, managing your own time and workplace.
 
-**Toptal**:
+### **Toptal**:
 
 TopTal is another awesome freelancing website for experienced and inexperienced workers alike. This site has been around since 2013, but it's still a great place to find gigs that pay big bucks, and if you're good at what you do, you can score some high-paying projects. TopTal has thousands of users waiting to be hired, whether they're experts or not, so if you want to try your hand at this freelancing thing, then head over there now. 
 
@@ -303,6 +307,38 @@ Working on this site is ideal for beginners as it allows them to build up a port
 You'll have access to all sorts of jobs that you can apply for, and if you do a good job for your clients, they'll automatically leave feedback about how well you did which will help you move up in rank so other companies can see what kind of work you do and whether or not they need it done as well.
 
 If you are an experienced designer, software engineer, or finance specialist who excels in your field and is fluent in the English language, then Toptal is the freelance platform for you.  This service helps freelancers connect with companies seeking top talent. Whether you need a part-time or full-time job, Toptal can get it for you. It is excellent if you have skills accustomed to working in critical jobs.
+
+### Behance
+
+Behance is a top platform for those who are looking to find freelance work online. It's a great place to post your portfolio so employers and clients can see what you have to offer. In addition, you'll be able to create a profile that includes links to past projects, descriptions of your skills, blog posts, presentations, and more.
+
+Behance gives you the option of posting paid or unpaid work, but it's geared towards companies that want to pay money for services they need to be completed. Most of the postings on this site come with budgets ranging from $1 – $5,000+ so if you do well, there is potential for big profits in freelancing on Behance.
+
+One benefit of working here is that large companies will often hire you to help bring their company brand and online presence up to par. This means that, besides creating a profile on the site and finding jobs you want to work on, you'll also be working with the companies directly themselves, which can mean more money in your pocket as well.
+
+Working at Behance is ideal for anyone who has worked for other employers before, either through an official job posting or a client approaching them about designing their website. It's one of the best sites I've used over the years as it has numerous companies looking for professionals to complete projects, so there's plenty of chances to earn some extra cash each month if you're willing to put in the time required.
+
+### Amazon mTurk
+
+mTurk may not be talked about much, but it's one of the better sites out there with a wide range of job postings that include all kinds of tasks such as surveys, data mining, transcription, tagging items in images, video transcription, and more. 
+
+Like most sites I've listed above, you'll be able to post your profile and start searching for jobs. If you find a job within your area of expertise or a task that you have experience with, you can apply to it directly and get started.
+
+"Micro-tasking" is the term used when it comes to completing tasks online like those listed above, so while some sites might pay more than others, mTurk pays fairly well compared to other micro-job sites available today. 
+
+Many people who use this site make at least $100 per month, if not more, depending on how much time they commit towards each task posted, so there are plenty of opportunities to earn cash here if you're looking for a good side hustle ideas. 
+
+### Brybe
+
+Bribe is another online platform that can help you make money with freelance opportunities in just any area. Whether you're an expert video editor who knows how to create the most entertaining videos on YouTube or if you have content creation skills, including writing and blogging, then this is the place for you. 
+
+They call themselves "The Future of Digital Work," and many people have found success using their platform to find work-from-home jobs like those listed above. You'll be able to sign up for a free account that allows you to post your profile, view other profiles within site, and apply directly for available projects where employers are looking for your assistance with various tasks online.  
+
+What I like most about Brybe because there are so many different options available when it comes to finding work from home jobs. Many people find success with this platform, and thousands have found work in the past few years online using Brybe as a source for making money while working from home. 
+
+It's one of the best places I've listed here if you're looking for freelance opportunities because not only will employers approach you first, but you can also post your profile which will allow them to seek out your expertise with various projects on the site. 
+
+You'll be able to earn cash quickly depending on what type of skills you have or what kind of job opportunities you decide to pursue, so don't just think about it anymore and give it a try starting now.
 
 ## Some Frequently Asked Questions about Freelancing
 
