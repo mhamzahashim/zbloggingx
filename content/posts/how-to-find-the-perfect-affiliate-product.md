@@ -41,8 +41,6 @@ But if you find out that everyone’s a beginner, and you **sell beginner-relat
 
 That’s why it’s really important to figure out what your audience is all about, the issues and pain points they have. That way you know what to sell them from an **affiliate standpoint**, to generate the most income. 
 
-<!--StartFragment-->
-
 ## Brainstorm All Solutions
 
 Second, you want to brainstorm all kinds of solutions, the **products, the services,** that can help your audience to find out. Create a blank document. Jot down any ideas that cross your mind, whether it is something that you’ve already seen, or no one’s invented yet.
@@ -63,27 +61,27 @@ Even when you’re browsing content, it’ll let you know if you’re looking at
 **Target Affiliates,**\
 **Walmart Affiliate program.**
 
-### If you’re open to selling other kinds of products, like **educational-based, or even software**, check out
+If you’re open to selling other kinds of products, like **educational-based, or even software**, check out these websites:
 
-ClickBank,\
-JVZoo,\
-OfferVault,\
-Rakuten,\
-Warrior Plus,\
-FlexOffers,\
-ShareASale,\
-Commission Junction,\
-Avangate,\
-MaxBounty,\
-PeerFly.
+ClickBank\
+JVZoo\
+OfferVault\
+Rakuten\
+Warrior Plus\
+FlexOffers\
+ShareASale\
+Commission Junction\
+Avangate\
+MaxBounty\
+PeerFly
 
-### If you want to focus on **educational products**, check out
+If you want to focus on **educational products**, check out
 
-Udemy,\
-Treehouse,\
-Coursera,\
-QuickStart,\
-360training.
+Udemy\
+Treehouse\
+Coursera\
+QuickStart\
+360training
 
 Those sites should give you an idea of what could work, and what won’t work for you and your audience.
 
@@ -97,10 +95,12 @@ If you start offering something else, not only will you not make any money, but 
 
 If something doesn’t help out your audience, then why would you sell it to them. Sure, in the short run, you may **make some money,** but in the long run, you’re going to burn **your reader base,** you’re going to lose your trust, and you won’t do well in the long run.
 
-**Warren Buffet always has this philosophy:**\
-If you have a choice between something that can **make you money** in the short run or something that’s going to burn your brand, take the option of not making the money, and protect your brand.
+**Warren Buffet always has this philosophy:**
 
-**Why? Because it creates longevity.** So this is how I really figure out if this helps people out. I look at my audience, and be like, “All right, is this going to help them out **“in an educational way?**\
+> If you have a choice between something that can **make you money** in the short run or something that’s going to burn your brand, take the option of not making the money, and protect your brand.
+
+**Why? Because it creates longevity.** So this is how I really figure out if this helps people out. I look at my audience, and be like, “All right, is this going to help them out **“in an educational way?**
+
 “Is this going to solve a nagging problem that they’re facing in life?\
 “Is this something that removes friction from something that they experience on a daily basis?\
 “Is this something that speeds up a process in your audience’s life?\
