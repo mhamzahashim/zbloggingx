@@ -10,6 +10,7 @@ metaKeywords: How To Find the Perfect Affiliate Product
 url: how-to-find-the-perfect-affiliate-product
 date: 2021-08-01T18:40:17.698Z
 updateDate: 2021-08-01T18:40:17.744Z
+image: /{{collections.fields.url}}/uploads/how-to-find-the-perfect-affiliate-product.jpg
 ---
 One of the most asked questions I get is, “Hamza, how do I choose products to sell as an affiliate? “I don’t want to ruin my reputation selling things “that my audience won’t like.”
 
